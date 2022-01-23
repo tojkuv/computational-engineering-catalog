@@ -30,13 +30,12 @@
 
 ### Computer Science Core
 - [ ] [CS107 - Computer Organization and Systems](https://web.stanford.edu/class/archive/cs/cs107/cs107.1224/calendar). Prereq: CS106B.
-- [ ] CS110 - Principles of Computer Systems. Prereq: CS106B.
-- [ ] CS161 - Design and Analysis of Algorithms. Prereq: CS109.
+- [ ] [CS110 - Principles of Computer Systems](https://web.stanford.edu/class/cs110/). Prereq: CS107.
+- [ ] [CS161 - Design and Analysis of Algorithms](https://web.stanford.edu/class/archive/cs/cs161/cs161.1166/). Prereq: CS103.
 
 ### Electives
-- [ ] CS144 - Introduction to Computer Networking
-- [ ] CS145 - Data Management and Data Systems
-- [ ] CS242 - Programming Languages
+- [ ] [CS145 - Data Management and Data Systems](https://cs145-fa21.github.io/).
+- [ ] [CS242 - Programming Languages](https://stanford-cs242.github.io/f19/).
 
 - [ ] EE180 - [Digital Systems Architecture](https://web.stanford.edu/class/ee180/). Prereq: CS107.
 
