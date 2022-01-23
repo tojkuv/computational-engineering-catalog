@@ -7,20 +7,18 @@
 
 
 ### Math Foundations
-- [ ] CS103 - Mathematical Foundations of Computing
-- [ ] CS109 - Introduction to Probability for Computer Scientists. Prereq: CS103.
-- [ ] MATH19 - Calculus. Prereq: Precalculus.
-- [ ] MATH20 - Calculus. Prereq: MATH19.
-- [ ] MATH21 - Calculus. Prereq: MATH20.
+- [ ] [CS103 - Mathematical Foundations of Computing](https://web.stanford.edu/class/cs103/schedule.html)
+- [ ] [CS109 - Introduction to Probability for Computer Scientists](https://web.stanford.edu/class/cs109/handouts/syllabus.html). Prereq: CS103.
+- [ ] [MATH21 - Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/). Prereq: Precalculus.
+- [ ] [MATH51 - Mathematics for Compputer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/). Prereq: MATH21.
 
 ### Math Electives
-- [ ] MATH51 - Linear Algebra, Multivariable Calculus, and Modern Applications. Prereq: MATH21.
-- [ ] MATH110 - Number Theory for Cryptography. Prereq: MATH51.
+- [ ] [MATH110 - Number Theory for Cryptography](https://ocw.mit.edu/courses/mathematics/18-785-number-theory-i-fall-2019/).
 - [ ] [MATH107 - Graph Theory](). Prereq: MATH51.
 
 ### Science
-- [ ] PHYSICS41 - Mechanics. Prereq: MATH20. Co-req: MATH21.
-- [ ] PHYSICS43 - Electricity and Magnetism. Prereq: PHYSICS41, MATH21. Co-req: MATH52.
+- [ ] [PHYSICS41 - Classical Mechanics](https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/). Prereq: MATH20. Co-req: MATH21.
+- [ ] [PHYSICS43 - Electricity and Magnetism. Prereq: PHYSICS41](https://ocw.mit.edu/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/). Prereq: MATH21. Co-req: MATH52.
 
 ### Technology in Society
 - [ ] [Technology in Society Course](https://bulletin.stanford.edu/programs/CS-BS)
