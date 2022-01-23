@@ -3,7 +3,7 @@
 ### Current Courses
 - [ ] [Precalculus](https://www.youtube.com/watch?v=Tw0t2Y4tT-k&t=1617s)
 - [ ] [CS103 - Mathematical Foundations of Computing](https://web.stanford.edu/class/cs103/schedule.html)
-- [ ] [CS106A - Programming Methodology](https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1222/)
+- [ ] [CS106B - Programming Abstractions](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1218/)
 
 ### Math Foundations
 - [ ] [CS103 - Mathematical Foundations of Computing](https://web.stanford.edu/class/cs103/schedule.html).
@@ -23,8 +23,8 @@
 - [ ] [Technology in Society Course](https://bulletin.stanford.edu/programs/CS-BS).
 
 ### Engineering Fundamentals
-- [ ] [CS106A - Programming Methodology](https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1222/).
-- [ ] [CS106B - Programming Abstractions](https://web.stanford.edu/class/cs106b/). Prereq: CS106A.
+- [x] [CS106A - Programming Methodology](https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1222/).
+- [ ] [CS106B - Programming Abstractions](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1218/). Prereq: CS106A.
 - [ ] ENGR40M - An Intro to Making: What is EE. Prereq: CS106A.
 
 ### Computer Science Core
