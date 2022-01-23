@@ -1,5 +1,43 @@
 ## Computer Science (Cryptography Track)
 
+### Current Courses
+
+
+### Math Foundations
+- [ ] CS103 - Mathematical Foundations of Computing
+- [ ] CS109 - Introduction to Probability for Computer Scientists. Prereq: CS103.
+- [ ] MATH19 - Calculus. Prereq: Precalculus.
+- [ ] MATH20 - Calculus. Prereq: MATH19.
+- [ ] MATH21 - Calculus. Prereq: MATH20.
+
+### Math Electives
+- [ ] MATH51 - Linear Algebra, Multivariable Calculus, and Modern Applications. Prereq: MATH21.
+- [ ] MATH110 - Number Theory for Cryptography. Prereq: MATH51.
+- [ ] [MATH107 - Graph Theory](). Prereq: MATH51.
+
+### Science
+- [ ] PHYSICS41 - Mechanics. Prereq: MATH20. Co-req: MATH21.
+- [ ] PHYSICS43 - Electricity and Magnetism. Prereq: PHYSICS41, MATH21. Co-req: MATH52.
+
+### Technology in Society
+- [ ] [Technology in Society Course](https://bulletin.stanford.edu/programs/CS-BS)
+
+### Engineering Fundamentals
+- [ ] CS106A - Programming Methodology
+- [ ] CS106B - Programming Abstractions. Prereq: CS106A.
+- [ ] ENGR40M - An Intro to Making: What is EE. Prereq: CS106A.
+
+### Computer Science Core
+- [ ] CS107 - Computer Organization and Systems. Prereq: CS106B.
+- [ ] CS110 - Principles of Computer Systems. Prereq: CS106B.
+- [ ] CS161 - Design and Analysis of Algorithms. Prereq: CS109.
+
+
+
+
+
+
+
 ### Intro to CS
 
 - [ ] [CS50 - Introduction to Computer Science - Harvard](cs50.tv/)
