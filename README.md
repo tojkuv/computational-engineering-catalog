@@ -1,10 +1,8 @@
 ## Computer Science (Cryptography Track)
 
-### Seminars
-- [ ] CS55N - Great Ideas in Computer Security and Cryptography
-
 ### Current Courses
-
+- [ ] [Precalculus](https://www.youtube.com/watch?v=Tw0t2Y4tT-k&t=1617s).
+- [ ] [CS55N - Great Ideas in Computer Security and Cryptography](https://crypto.stanford.edu/~dabo/cs55N/).
 
 ### Math Foundations
 - [ ] [CS103 - Mathematical Foundations of Computing](https://web.stanford.edu/class/cs103/schedule.html)
