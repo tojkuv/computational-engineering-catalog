@@ -36,8 +36,7 @@
 ### Electives
 - [ ] [CS145 - Data Management and Data Systems](https://cs145-fa21.github.io/).
 - [ ] [CS242 - Programming Languages](https://stanford-cs242.github.io/f19/).
-
-- [ ] EE180 - [Digital Systems Architecture](https://web.stanford.edu/class/ee180/). Prereq: CS107.
+- [ ] [EE180 - Digital Systems Architecture](https://web.stanford.edu/class/ee180/). Prereq: CS107.
 
 ### Computer Networks
 - [ ] [CS155 - Computer and Network Security](https://crypto.stanford.edu/cs155old/cs155-spring17/)
