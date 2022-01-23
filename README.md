@@ -26,12 +26,12 @@
 - [ ] [Technology in Society Course](https://bulletin.stanford.edu/programs/CS-BS)
 
 ### Engineering Fundamentals
-- [ ] CS106A - Programming Methodology
-- [ ] CS106B - Programming Abstractions. Prereq: CS106A.
+- [ ] [CS106A - Programming Methodology](https://see.stanford.edu/Course/CS106A)
+- [ ] [CS106B - Programming Abstractions](https://web.stanford.edu/class/cs106b/). Prereq: CS106A.
 - [ ] ENGR40M - An Intro to Making: What is EE. Prereq: CS106A.
 
 ### Computer Science Core
-- [ ] CS107 - Computer Organization and Systems. Prereq: CS106B.
+- [ ] [CS107 - Computer Organization and Systems](https://web.stanford.edu/class/archive/cs/cs107/cs107.1224/calendar). Prereq: CS106B.
 - [ ] CS110 - Principles of Computer Systems. Prereq: CS106B.
 - [ ] CS161 - Design and Analysis of Algorithms. Prereq: CS109.
 
@@ -42,11 +42,7 @@
 - [ ] CS243 - Program Analysis and Optimizations
 - [ ] CS244 - Advanced Topics in Networking
 
-- [ ] 
-- [ ] EE180 - Digital Systems Architecture. Prereq: CS107.
-    - [ ] EE108 - Digital System Design
-- [ ] EE282 - Computer Systems Architecture
-- [ ] 
+- [ ] EE180 - [Digital Systems Architecture](https://web.stanford.edu/class/ee180/). Prereq: CS107.
 
 ### Computer Networks
 - [ ] [CS155 - Computer and Network Security](https://crypto.stanford.edu/cs155old/cs155-spring17/)
@@ -57,6 +53,8 @@
 - [ ] [CS355 - Topics in Cryptography](https://crypto.stanford.edu/~dabo/courses/cs355_spring14/syllabus.html)
 - [ ] [CS356 - Topics in Computer and Network Security](https://cs356.stanford.edu/)
 - [ ] [CS357S - Formal Methods for Computer Systems](). Prereq: EE180.
+- [ ] CS253: Web Security
 
-
-
+### Seminars
+- [ ] [Standford Security Seminars](https://crypto.stanford.edu/seclab/sem.html)
+- [ ] [Stanford Security Lunch](https://securitylunch.stanford.edu/)
