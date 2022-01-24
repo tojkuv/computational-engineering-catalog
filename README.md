@@ -12,6 +12,7 @@
 - [ ] [MATH51 - Mathematics for Compputer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/). Prereq: MATH21.
 
 ### Math Electives
+- [ ] [Linear Algebra]().
 - [ ] [MATH110 - Number Theory for Cryptography](https://ocw.mit.edu/courses/mathematics/18-785-number-theory-i-fall-2019/).
 - [ ] [MATH107 - Graph Theory](https://ocw.mit.edu/courses/mathematics/18-217-graph-theory-and-additive-combinatorics-fall-2019/).
 
