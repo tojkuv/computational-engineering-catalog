@@ -3,7 +3,6 @@
 ### Current Courses
 - [ ] [Precalculus](https://www.youtube.com/watch?v=Tw0t2Y4tT-k&t=1617s)
 - [ ] [CS103 - Mathematical Foundations of Computing](https://web.stanford.edu/class/cs103/schedule.html)
-- [ ] [CS106B - Programming Abstractions](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1218/)
 
 ### Math Foundations
 - [ ] [CS103 - Mathematical Foundations of Computing](https://web.stanford.edu/class/cs103/schedule.html).
