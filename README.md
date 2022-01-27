@@ -1,6 +1,7 @@
 ## Computer Science (Cryptography Track)
 
 ### Current Courses
+- [ ] [Agebra]
 - [ ] [Precalculus](https://www.youtube.com/watch?v=Tw0t2Y4tT-k&t=1617s)
 - [ ] [CS103 - Mathematical Foundations of Computing](https://web.stanford.edu/class/cs103/schedule.html)
 
