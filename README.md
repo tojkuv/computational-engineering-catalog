@@ -9,6 +9,8 @@
 - [ ] [CS103 - Mathematical Foundations of Computing](https://web.stanford.edu/class/cs103/schedule.html).
 - [ ] [CS106B - Programming Abstractions](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1218/). Prereq: CS106A.
 
+
+
 ### Math Foundations
 - [ ] [CS103 - Mathematical Foundations of Computing](https://web.stanford.edu/class/cs103/schedule.html).
 - [ ] [CS109 - Introduction to Probability for Computer Scientists](https://web.stanford.edu/class/cs109/). Prereq: CS103.
