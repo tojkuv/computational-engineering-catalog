@@ -28,7 +28,7 @@
 ### Engineering Fundamentals
 - [x] [CS106A - Programming Methodology](https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1222/).
 - [ ] [CS106B - Programming Abstractions](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1218/). Prereq: CS106A.
-- [ ] ENGR40M - An Intro to Making: What is EE. Prereq: CS106A.
+- [ ] ENGR40M - An Intro to Making: What is EE. Prereq: CS106A. *home project*
 
 ### Computer Science Core
 - [ ] [CS107 - Computer Organization and Systems](https://web.stanford.edu/class/archive/cs/cs107/cs107.1224/calendar). Prereq: CS106B.
