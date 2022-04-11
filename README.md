@@ -39,7 +39,7 @@
 - [ ] [CS161 - Design and Analysis of Algorithms](https://web.stanford.edu/class/archive/cs/cs161/cs161.1166/). Prereq: CS103.
 
 ### Electives
-- [ ] [CS145 - Data Management and Data Systems](https://cs145-fa21.github.io/).
+- [ ] [CS145 - Data Management and Data Systems](https://cs145-fa19.github.io/#).
 - [ ] [CS242 - Programming Languages](https://stanford-cs242.github.io/f19/).
 - [ ] [EE180 - Digital Systems Architecture](https://web.stanford.edu/class/ee180/). Prereq: CS107.
 
