@@ -1,4 +1,5 @@
 ## Computer Science (Cryptography Track)
+[Stanford Catalog](https://bulletin.stanford.edu/programs/CS-BS)
 
 ### Current Supplimental Courses
 - [ ] Mathematical Foundations: [Algebra](https://www.algebra-class.com/support-files/algebra-cheat-sheets.pdf) & [Precalculus](https://www.youtube.com/watch?v=Tw0t2Y4tT-k&t=1617s).
