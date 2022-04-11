@@ -11,7 +11,7 @@
 
 
 ### Math Foundations
-- [ ] [CS103 - Mathematical Foundations of Computing](https://web.stanford.edu/class/cs103/schedule.html).
+- [x] [CS103 - Mathematical Foundations of Computing](https://web.stanford.edu/class/cs103/schedule.html).
 - [ ] [CS109 - Introduction to Probability for Computer Scientists](https://web.stanford.edu/class/cs109/). Prereq: CS103.
 - [ ] [MATH21 - Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/). Prereq: [Precalculus](https://www.youtube.com/watch?v=Tw0t2Y4tT-k&t=1617s).
 - [ ] [MATH51 - Mathematics for Compputer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/). Prereq: MATH21.
@@ -30,7 +30,7 @@
 
 ### Engineering Fundamentals
 - [x] [CS106A - Programming Methodology](https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1222/).
-- [ ] [CS106B - Programming Abstractions](https://web.stanford.edu/class/cs106b/). Prereq: CS106A.
+- [x] [CS106B - Programming Abstractions](https://web.stanford.edu/class/cs106b/). Prereq: CS106A.
 - [ ] ENGR40M - An Intro to Making: What is EE. Prereq: CS106A. *home project*
 
 ### Computer Science Core
