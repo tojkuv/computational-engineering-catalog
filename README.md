@@ -2,11 +2,11 @@
 [Stanford Catalog](https://bulletin.stanford.edu/programs/CS-BS)
 
 ### Current Supplimental Courses
-- [ ] Mathematical Foundations: [Algebra](https://www.algebra-class.com/support-files/algebra-cheat-sheets.pdf) & [Precalculus](https://www.youtube.com/watch?v=Tw0t2Y4tT-k&t=1617s)
-- [ ] [CS103 - Mathematical Foundations of Computing](https://web.stanford.edu/class/cs103/schedule.html)
-- [ ] [CS106B - Programming Abstractions](https://web.stanford.edu/class/cs106b/)
-  - [ ] [CS106X - Programming Abstractions](https://web.stanford.edu/class/cs106x/)
-- [ ] [Cs106L - Standard C++ Programming](https://web.stanford.edu/class/cs106l/)
+- [x] Mathematical Foundations: [Algebra](https://www.algebra-class.com/support-files/algebra-cheat-sheets.pdf) & [Precalculus](https://www.youtube.com/watch?v=Tw0t2Y4tT-k&t=1617s)
+- [x] [CS103 - Mathematical Foundations of Computing](https://web.stanford.edu/class/cs103/schedule.html)
+- [x] [CS106B - Programming Abstractions](https://web.stanford.edu/class/cs106b/)
+  - [x] [CS106X - Programming Abstractions](https://web.stanford.edu/class/cs106x/)
+- [x] [Cs106L - Standard C++ Programming](https://web.stanford.edu/class/cs106l/)
 
 
 
