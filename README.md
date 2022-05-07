@@ -29,6 +29,7 @@
 - [ ] [Technology in Society Course](https://bulletin.stanford.edu/programs/CS-BS).
 
 ### Engineering Fundamentals
+- [x] [CS101 - Introduction to Computer Science](https://web.stanford.edu/class/cs101/).
 - [x] [CS106A - Programming Methodology](https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1222/).
 - [x] [CS106B - Programming Abstractions](https://web.stanford.edu/class/cs106b/). Prereq: CS106A.
 - [ ] ENGR40M - An Intro to Making: What is EE. Prereq: CS106A. *home project*
