@@ -1,10 +1,6 @@
 ## Computer Science (Cryptography Track)
 [Stanford Catalog](https://bulletin.stanford.edu/programs/CS-BS)
 
-### Current Supplimental Courses
-- [x] [CS101 - Introduction to Computer Science](https://web.stanford.edu/class/cs101/).
-- [x] Mathematical Foundations: [Algebra](https://www.algebra-class.com/support-files/algebra-cheat-sheets.pdf) & [Precalculus](https://www.youtube.com/watch?v=Tw0t2Y4tT-k&t=1617s)
-
 ### Math Foundations
 - [x] [CS103 - Mathematical Foundations of Computing](https://web.stanford.edu/class/cs103/schedule.html).
 - [ ] [CS109 - Introduction to Probability for Computer Scientists](https://web.stanford.edu/class/cs109/). Prereq: CS103.
