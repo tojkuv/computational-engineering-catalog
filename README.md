@@ -1,8 +1,8 @@
-## Tentative
-- [ ] [GitHub Lab](https://lab.github.com/)
+## Tentative Resources
+- [ ] [GitHub Lab](https://lab.github.com/).
 
 # Computer Science (Cryptography Track)
-[Stanford Catalog](https://bulletin.stanford.edu/programs/CS-BS)
+[Stanford Catalog](https://bulletin.stanford.edu/programs/CS-BS).
 
 ### Math Foundations
 - [ ] [CS103 - Mathematical Foundations of Computing](https://web.stanford.edu/class/cs103/schedule.html).
