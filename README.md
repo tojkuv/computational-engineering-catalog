@@ -1,6 +1,3 @@
-## Tentative Resources
-- [ ] [GitHub Lab](https://lab.github.com/).
-
 # Computer Science (Cryptography Track)
 [Stanford Catalog](https://bulletin.stanford.edu/programs/CS-BS).
 
