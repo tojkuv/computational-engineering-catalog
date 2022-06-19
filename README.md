@@ -46,5 +46,8 @@
 - [ ] [CS356 - Topics in Computer and Network Security](https://cs356.stanford.edu/).
 - [ ] [CS357S - Formal Methods for Computer Systems]. Prereq: EE180.
 
+### Quantum Computation
+- [ ] [Qiskit](https://qiskit.org/textbook/what-is-quantum.html).
+
 ### Research Resources
 - [ ] [Applied Cryptography](https://crypto.stanford.edu/).
