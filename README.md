@@ -35,7 +35,7 @@ Pick some electives after completing the foundations.
 - [ ] [CS259 - Security Analysis of Network Protocols](https://web.stanford.edu/class/cs259/WWW08/).
 - [ ] [CS355 - Topics in Cryptography](https://crypto.stanford.edu/~dabo/courses/cs355_spring14/syllabus.html).
 - [ ] [CS356 - Topics in Computer and Network Security](https://cs356.stanford.edu/).
-- [ ] [CS357S - Formal Methods for Computer Systems]. Prereq: EE180.
+- [ ] CS357S - Formal Methods for Computer Systems. Prereq: EE180.
 
 ### Quantum Computation
 - [ ] [Qiskit Textbook](https://qiskit.org/textbook/what-is-quantum.html).
