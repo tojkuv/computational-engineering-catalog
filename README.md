@@ -4,7 +4,7 @@
 ### Math Foundations
 - [ ] [CS103 - Mathematical Foundations of Computing](https://web.stanford.edu/class/cs103/schedule.html).
 - [ ] [CS109 - Introduction to Probability for Computer Scientists](https://web.stanford.edu/class/cs109/). Prereq: CS103.
-- [ ] [MATH21 - Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/). Prereq: [Precalculus](https://www.youtube.com/watch?v=Tw0t2Y4tT-k&t=1617s).
+- [ ] [MATH21 - Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/).
 
 ### Math Electives
 - [ ] [Linear Algebra]().
