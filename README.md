@@ -2,8 +2,8 @@
 [Stanford Catalog](https://bulletin.stanford.edu/programs/CS-BS).
 
 ## Mathematics
-- [ ] [CS103 - Mathematical Foundations of Computing](https://web.stanford.edu/class/cs103/schedule.html).
-- [ ] [CS109 - Introduction to Probability for Computer Scientists](https://web.stanford.edu/class/cs109/). Prereq: CS103.
+- [x] [CS103 - Mathematical Foundations of Computing](https://web.stanford.edu/class/cs103/schedule.html).
+- [x] [CS109 - Introduction to Probability for Computer Scientists](https://web.stanford.edu/class/cs109/). Prereq: CS103.
 - [ ] [MATH21 - Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/).
 - [ ] [Linear Algebra]().
 Pick some electives after completing the foundations.
@@ -13,7 +13,7 @@ Pick some electives after completing the foundations.
 - [ ] [PHYSICS43 - Electricity and Magnetism. Prereq: PHYSICS41](https://ocw.mit.edu/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/). Prereq: MATH21. Co-req: MATH52.
 
 ## Computer Science Fundamentals
-- [ ] [CS101 - Introduction to Computer Science](https://web.stanford.edu/class/cs101/).
+- [x] [CS101 - Introduction to Computer Science](https://web.stanford.edu/class/cs101/).
 - [ ] [CS106A - Programming Methodology](https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1222/).
 - [ ] [CS106B - Programming Abstractions](https://web.stanford.edu/class/cs106b/). Prereq: CS106A.
 - [ ] ENGR40M - An Intro to Making: What is EE. Prereq: CS106A. *Create a useless-box with Arduino*
