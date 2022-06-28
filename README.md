@@ -16,10 +16,10 @@ Pick some electives after completing the foundations.
 - [x] [CS101 - Introduction to Computer Science](https://web.stanford.edu/class/cs101/).
 - [X] [CS106A - Programming Methodology](https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1222/).
 - [ ] [CS106B - Programming Abstractions](https://web.stanford.edu/class/cs106b/). Prereq: CS106A.
-- [ ] ENGR40M - An Intro to Making: What is EE. Prereq: CS106A. *Create a useless-box with Arduino*
 - [ ] [CS107 - Computer Organization and Systems](https://web.stanford.edu/class/archive/cs/cs107/cs107.1224/calendar). Prereq: CS106B.
 - [ ] [CS110 - Principles of Computer Systems](https://web.stanford.edu/class/cs110/). Prereq: CS107.
 - [ ] [CS161 - Design and Analysis of Algorithms](https://web.stanford.edu/class/archive/cs/cs161/cs161.1166/). Prereq: CS103.
+- [ ] ENGR40M - An Intro to Making: What is EE. Prereq: CS106A. *Create a useless-box with Arduino*
 
 ### Electives
 - [ ] [CS145 - Data Management and Data Systems](https://cs145-fa19.github.io/#).
