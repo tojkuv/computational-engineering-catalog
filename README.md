@@ -3,7 +3,7 @@
 
 ## Mathematics
 - [x] [CS103 - Mathematical Foundations of Computing](https://web.stanford.edu/class/cs103/schedule.html).
-- [x] [CS109 - Introduction to Probability for Computer Scientists](https://web.stanford.edu/class/cs109/). Prereq: CS103.
+- [ ] [CS109 - Introduction to Probability for Computer Scientists](https://web.stanford.edu/class/cs109/). Prereq: CS103.
 - [ ] [MATH21 - Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/).
 - [ ] [Linear Algebra]().
 Pick some electives after completing the foundations.
@@ -14,7 +14,7 @@ Pick some electives after completing the foundations.
 
 ## Computer Science Fundamentals
 - [x] [CS101 - Introduction to Computer Science](https://web.stanford.edu/class/cs101/).
-- [ ] [CS106A - Programming Methodology](https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1222/).
+- [X] [CS106A - Programming Methodology](https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1222/).
 - [ ] [CS106B - Programming Abstractions](https://web.stanford.edu/class/cs106b/). Prereq: CS106A.
 - [ ] ENGR40M - An Intro to Making: What is EE. Prereq: CS106A. *Create a useless-box with Arduino*
 - [ ] [CS107 - Computer Organization and Systems](https://web.stanford.edu/class/archive/cs/cs107/cs107.1224/calendar). Prereq: CS106B.
