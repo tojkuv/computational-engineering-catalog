@@ -1,4 +1,4 @@
-# Computer Science
+# Computer Science Catalog
 [Stanford Catalog](https://bulletin.stanford.edu/programs/CS-BS).
 
 ## Mathematics
