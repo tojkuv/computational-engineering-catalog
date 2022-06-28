@@ -4,9 +4,11 @@
 ## Mathematics
 - [x] [CS103 - Mathematical Foundations of Computing](https://web.stanford.edu/class/cs103/schedule.html).
 - [ ] [CS109 - Introduction to Probability for Computer Scientists](https://web.stanford.edu/class/cs109/). Prereq: CS103.
-- [ ] [MATH20 - Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/syllabus/).
-- [ ] [Math21 - Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/pages/syllabus/). Pre-req: Math20.
-- [ ] [Linear Algebra]().
+- [ ] [18.01 - Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/syllabus/).
+- [ ] [18.02 - Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/pages/syllabus/). Pre-req: 18.01.
+- [ ] [18.03 - Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/). Pre-req: 18.02.
+- [ ] [Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/syllabus/).
+- [ ] [18.704 - Elliptic Curves](https://ocw.mit.edu/courses/18-704-seminar-in-algebra-and-number-theory-rational-points-on-elliptic-curves-fall-2004/).
 Pick some electives after completing the foundations.
 
 ## Physics
@@ -14,7 +16,6 @@ Pick some electives after completing the foundations.
 - [ ] [PHYSICS43 - Electricity and Magnetism. Prereq: PHYSICS41](https://ocw.mit.edu/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/). Prereq: MATH21. Co-req: MATH52.
 
 ## Computer Science
-### Foundations
 - [x] [CS101 - Introduction to Computer Science](https://web.stanford.edu/class/cs101/).
 - [X] [CS106A - Programming Methodology](https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1222/).
 - [ ] [CS106B - Programming Abstractions](https://web.stanford.edu/class/cs106b/). Prereq: CS106A.
@@ -23,10 +24,8 @@ Pick some electives after completing the foundations.
 - [ ] [CS161 - Design and Analysis of Algorithms](https://web.stanford.edu/class/archive/cs/cs161/cs161.1166/). Prereq: CS103.
 - [ ] An Intro to Making: What is EE. Prereq: CS106A. *Create a useless-box with Arduino*
 
-### Electives
+## Electives
 - [ ] [CS145 - Data Management and Data Systems](https://cs145-fa19.github.io/#).
-Pick some electives after completing the foundations.
-
 ### Computer Networks
 - [ ] [CS155 - Computer and Network Security](https://crypto.stanford.edu/cs155old/cs155-spring17/).
 - [ ] [CS344 - Topics in Computer Networks](https://bulletin.stanford.edu/courses/1058581). *learn to build a router*
