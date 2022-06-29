@@ -25,7 +25,7 @@ Pick additional courses.
 - [ ] [CS161 - Design and Analysis of Algorithms](https://web.stanford.edu/class/archive/cs/cs161/cs161.1166/). Prereq: CS103.
 - [ ] An Intro to Making: What is EE. Prereq: CS106A. *Create a useless-box with Arduino*
 
-## After Foundations
+## (After Foundations)
 ### System Adminisrtation
 - [ ] [CS145 - Data Management and Data Systems](https://cs145-fa19.github.io/#).
 ### Computer Networks
