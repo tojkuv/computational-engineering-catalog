@@ -15,7 +15,7 @@ Pick additional courses.
 - [ ] [PHYSICS41 - Classical Mechanics](https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/). Co-req: 18.02.
 - [ ] [PHYSICS43 - Electricity and Magnetism. Prereq: PHYSICS41](https://ocw.mit.edu/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/). Prereq: 18.02 & 18.06.
 
-## Computer Science Foundations
+## Foundations of Computer Science
 - [x] [CS101 - Introduction to Computer Science](https://web.stanford.edu/class/cs101/).
 - [X] [CS106A - Programming Methodology](https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1222/).
 - [ ] [CS106B - Programming Abstractions](https://web.stanford.edu/class/cs106b/). Prereq: CS106A.
