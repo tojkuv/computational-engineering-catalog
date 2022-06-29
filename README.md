@@ -15,7 +15,7 @@ Pick additional courses.
 - [ ] [PHYSICS41 - Classical Mechanics](https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/). Co-req: 18.02.
 - [ ] [PHYSICS43 - Electricity and Magnetism. Prereq: PHYSICS41](https://ocw.mit.edu/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/). Prereq: 18.02 & 18.06.
 
-## Computer Science
+## Computer Science Foundations
 - [x] [CS101 - Introduction to Computer Science](https://web.stanford.edu/class/cs101/).
 - [X] [CS106A - Programming Methodology](https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1222/).
 - [ ] [CS106B - Programming Abstractions](https://web.stanford.edu/class/cs106b/). Prereq: CS106A.
@@ -25,7 +25,7 @@ Pick additional courses.
 - [ ] [CS161 - Design and Analysis of Algorithms](https://web.stanford.edu/class/archive/cs/cs161/cs161.1166/). Prereq: CS103.
 - [ ] An Intro to Making: What is EE. Prereq: CS106A. *Create a useless-box with Arduino*
 
-## Electives
+## After Foundations
 ### System Adminisrtation
 - [ ] [CS145 - Data Management and Data Systems](https://cs145-fa19.github.io/#).
 ### Computer Networks
