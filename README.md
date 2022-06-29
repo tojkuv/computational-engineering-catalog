@@ -40,5 +40,6 @@ Pick additional courses.
 
 ### Capstone Experience
 - [ ] [CS294S - Research Project in Software Systems and Security](https://seclab.stanford.edu/). [CSAIL](https://www.csail.mit.edu/).
-### Quantum Computation Spesification
+## Spesifications
+### Quantum Computation
 - [ ] [Qiskit Textbook](https://qiskit.org/textbook/what-is-quantum.html).
