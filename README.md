@@ -1,7 +1,7 @@
 # Computer Science Catalog
 [Stanford Catalog](https://bulletin.stanford.edu/programs/CS-BS).
 
-## Mathematics
+## Mathematical Foundations
 - [x] [CS103 - Mathematical Foundations of Computing](https://web.stanford.edu/class/cs103/schedule.html).
 - [ ] [CS109 - Introduction to Probability for Computer Scientists](https://web.stanford.edu/class/cs109/). Prereq: CS103.
 - [x] [18.01 - Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/syllabus/).
