@@ -12,8 +12,8 @@
 Pick additional courses.
 
 ## Physics
-- [ ] [PHYSICS41 - Classical Mechanics](https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/). Co-req: 18.02.
-- [ ] [PHYSICS43 - Electricity and Magnetism. Prereq: PHYSICS41](https://ocw.mit.edu/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/). Prereq: 18.02 & 18.06.
+- [ ] [8.01 - Classical Mechanics](https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/). Co-req: 18.02.
+- [ ] [8.02 - Electricity and Magnetism. Prereq: 8.01](https://ocw.mit.edu/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/). Prereq: 18.02 & 18.06.
 
 ## Foundations of Computer Science
 - [x] [CS101 - Introduction to Computer Science](https://web.stanford.edu/class/cs101/).
