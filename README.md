@@ -7,6 +7,7 @@
 - [x] [18.01 - Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/syllabus/).
 - [ ] [18.02 - Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/pages/syllabus/). Pre-req: 18.01.
 - [ ] [18.03 - Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/). Pre-req: 18.02.
+- [ ] [18.04 - Complex Variables with Applications](https://ocw.mit.edu/courses/18-04-complex-variables-with-applications-spring-2018/pages/syllabus/).
 - [ ] [18.06 - Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/syllabus/).
 
 Pick additional courses.
