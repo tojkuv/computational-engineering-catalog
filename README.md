@@ -9,7 +9,7 @@
 - [ ] [18.03 - Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/). Pre-req: 18.02.
 - [ ] [18.06 - Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/syllabus/).
 
-Pick some electives.
+Pick additional courses.
 
 ## Physics
 - [ ] [PHYSICS41 - Classical Mechanics](https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/). Co-req: 18.02.
@@ -26,6 +26,7 @@ Pick some electives.
 - [ ] An Intro to Making: What is EE. Prereq: CS106A. *Create a useless-box with Arduino*
 
 ## Electives
+### System Adminisrtation
 - [ ] [CS145 - Data Management and Data Systems](https://cs145-fa19.github.io/#).
 ### Computer Networks
 - [ ] [CS155 - Computer and Network Security](https://crypto.stanford.edu/cs155old/cs155-spring17/).
@@ -37,6 +38,5 @@ Pick some electives.
 - [ ] [CS355 - Topics in Cryptography](https://crypto.stanford.edu/~dabo/courses/cs355_spring14/syllabus.html).
 - [ ] [CS356 - Topics in Computer and Network Security](https://cs356.stanford.edu/).
 - [ ] CS357S - Formal Methods for Computer Systems. Prereq: EE180.
-
 ### Quantum Computation
 - [ ] [Qiskit Textbook](https://qiskit.org/textbook/what-is-quantum.html).
