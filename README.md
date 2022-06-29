@@ -25,17 +25,17 @@ Pick additional courses.
 - [ ] [CS161 - Design and Analysis of Algorithms](https://web.stanford.edu/class/archive/cs/cs161/cs161.1166/). Prereq: CS103.
 - [ ] An Intro to Making: What is EE. Prereq: CS106A. *Create a useless-box with Arduino*
 
-## (After Foundations)
+## Depth in Discipline - Individually Designed Pathway
 ### System Adminisrtation
 - [ ] [CS145 - Data Management and Data Systems](https://cs145-fa19.github.io/#).
 ### Computer Networks and Cyber Security
 - [ ] [CS155 - Computer and Network Security](https://crypto.stanford.edu/cs155old/cs155-spring17/).
-- [ ] [CS344 - Topics in Computer Networks](https://bulletin.stanford.edu/courses/1058581). *learn to build a router*
 - [ ] [CS253 - Web Security](https://web.stanford.edu/class/cs253/).
 - [ ] [CS255 - Introduction to Cryptography](https://crypto.stanford.edu/~dabo/cs255/syllabus.html).
 - [ ] [CS259 - Security Analysis of Network Protocols](https://web.stanford.edu/class/cs259/WWW08/).
+- [ ] [CS344 - Topics in Computer Networks](https://bulletin.stanford.edu/courses/1058581). *learn to build a router*
 - [ ] [CS355 - Topics in Cryptography](https://crypto.stanford.edu/~dabo/courses/cs355_spring14/syllabus.html).
 - [ ] [CS356 - Topics in Computer and Network Security](https://cs356.stanford.edu/).
 - [ ] CS357S - Formal Methods for Computer Systems. Prereq: EE180.
-### Quantum Computation
+### Quantum Computation Spesification
 - [ ] [Qiskit Textbook](https://qiskit.org/textbook/what-is-quantum.html).
