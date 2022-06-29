@@ -28,10 +28,9 @@ Pick additional courses.
 ## (After Foundations)
 ### System Adminisrtation
 - [ ] [CS145 - Data Management and Data Systems](https://cs145-fa19.github.io/#).
-### Computer Networks
+### Computer Networks and Cyber Security
 - [ ] [CS155 - Computer and Network Security](https://crypto.stanford.edu/cs155old/cs155-spring17/).
 - [ ] [CS344 - Topics in Computer Networks](https://bulletin.stanford.edu/courses/1058581). *learn to build a router*
-- [ ] [CS251 - Cryptocurrencies and blockchain technologies](https://cs251.stanford.edu/syllabus.html).
 - [ ] [CS253 - Web Security](https://web.stanford.edu/class/cs253/).
 - [ ] [CS255 - Introduction to Cryptography](https://crypto.stanford.edu/~dabo/cs255/syllabus.html).
 - [ ] [CS259 - Security Analysis of Network Protocols](https://web.stanford.edu/class/cs259/WWW08/).
