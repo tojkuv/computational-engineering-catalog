@@ -4,7 +4,7 @@
 ## Mathematics
 - [x] [CS103 - Mathematical Foundations of Computing](https://web.stanford.edu/class/cs103/schedule.html).
 - [ ] [CS109 - Introduction to Probability for Computer Scientists](https://web.stanford.edu/class/cs109/). Prereq: CS103.
-- [ ] [18.01 - Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/syllabus/).
+- [x] [18.01 - Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/syllabus/).
 - [ ] [18.02 - Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/pages/syllabus/). Pre-req: 18.01.
 - [ ] [18.03 - Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/). Pre-req: 18.02.
 - [ ] [18.06 - Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/syllabus/).
@@ -12,8 +12,8 @@
 Pick some electives.
 
 ## Physics
-- [ ] [PHYSICS41 - Classical Mechanics](https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/). Co-req: MATH21.
-- [ ] [PHYSICS43 - Electricity and Magnetism. Prereq: PHYSICS41](https://ocw.mit.edu/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/). Prereq: MATH21. Co-req: MATH52.
+- [ ] [PHYSICS41 - Classical Mechanics](https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/). Co-req: 18.02.
+- [ ] [PHYSICS43 - Electricity and Magnetism. Prereq: PHYSICS41](https://ocw.mit.edu/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/). Prereq: 18.02 & 18.06.
 
 ## Computer Science
 - [x] [CS101 - Introduction to Computer Science](https://web.stanford.edu/class/cs101/).
