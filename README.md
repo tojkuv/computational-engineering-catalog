@@ -43,7 +43,7 @@ Pick additional courses.
 - [ ] [CS294S - Research Project in Software Systems and Security](https://seclab.stanford.edu/). [CSAIL](https://www.csail.mit.edu/).
 ## Spesifications
 ### Quantum Computation
-- [ ] [Qiskit Textbook](https://qiskit.org/textbook/what-is-quantum.html).
+- [ ] [Awesome List](https://github.com/desireevl/awesome-quantum-computing).
 ### Lisp Dialect
 - [ ] [Scheme](https://www.schemers.org/).
 ### Modern Functional Programming Language
