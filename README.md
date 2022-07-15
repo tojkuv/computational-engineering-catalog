@@ -42,7 +42,7 @@ Pick additional courses.
 ### Capstone Experience
 - [ ] [CS294S - Research Project in Software Systems and Security](https://seclab.stanford.edu/). [CSAIL](https://www.csail.mit.edu/).
 ## Spesifications
-### Lisp Dialect
+### List Processor Dialect
 - [ ] [Scheme](https://www.schemers.org/).
 ### Modern Functional Programming Language
 - [ ] [Rust](https://doc.rust-lang.org/book/).
