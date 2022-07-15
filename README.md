@@ -42,11 +42,11 @@ Pick additional courses.
 ### Capstone Experience
 - [ ] [CS294S - Research Project in Software Systems and Security](https://seclab.stanford.edu/). [CSAIL](https://www.csail.mit.edu/).
 ## Spesifications
-### Quantum Computation
-- [ ] [Awesome List](https://github.com/desireevl/awesome-quantum-computing).
 ### Lisp Dialect
 - [ ] [Scheme](https://www.schemers.org/).
 ### Modern Functional Programming Language
 - [ ] [Rust](https://doc.rust-lang.org/book/).
 ### Concurrency-Centric Programming Language
 - [ ] [Go](https://go.dev/doc/tutorial/web-service-gin).
+### Quantum Computation
+- [ ] [Awesome](https://github.com/desireevl/awesome-quantum-computing).
