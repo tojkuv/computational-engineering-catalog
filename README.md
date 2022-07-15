@@ -48,5 +48,5 @@ Pick additional courses.
 - [ ] [Rust](https://doc.rust-lang.org/book/).
 ### Concurrency-Centric Programming Language
 - [ ] [Go](https://go.dev/doc/tutorial/web-service-gin).
-### Quantum Computation
+### Quantum Computation Awesomeness
 - [ ] [Awesome](https://github.com/desireevl/awesome-quantum-computing).
