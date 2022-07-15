@@ -49,4 +49,6 @@ Pick additional courses.
 ### Concurrency-Centric Programming Language
 - [ ] [Go](https://go.dev/doc/tutorial/web-service-gin).
 ### Quantum Computation Awesomeness
-- [ ] [Awesome](https://github.com/desireevl/awesome-quantum-computing).
+- [ ] [Awesome](https://github.com/desireevl/awesome-quantum-computing).[^1]
+
+[^1]: [Gallery](https://archive.org/details/1111101000-robots/page/n1/mode/2up?view=theater).
