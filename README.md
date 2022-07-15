@@ -46,3 +46,7 @@ Pick additional courses.
 - [ ] [Qiskit Textbook](https://qiskit.org/textbook/what-is-quantum.html).
 ### Lisp Dialect
 - [ ] [Scheme](https://www.schemers.org/).
+### Modern Functional Programming Language
+- [ ] [Rust](https://doc.rust-lang.org/book/).
+### Concurrency-Centric Programming Language
+- [ ] [Go](https://go.dev/doc/tutorial/web-service-gin).
