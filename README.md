@@ -44,5 +44,5 @@ Pick additional courses.
 ## Spesifications
 ### Quantum Computation
 - [ ] [Qiskit Textbook](https://qiskit.org/textbook/what-is-quantum.html).
-### Lisp Dialects
+### Lisp Dialect
 - [ ] [Scheme](https://www.schemers.org/).
