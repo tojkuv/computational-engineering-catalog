@@ -20,7 +20,6 @@ Pick additional courses.
 - [x] [CS101 - Introduction to Computer Science](https://web.stanford.edu/class/cs101/).
 - [X] [CS106A - Programming Methodology](https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1222/).
 - [ ] [CS106B - Programming Abstractions](https://web.stanford.edu/class/cs106b/). Prereq: CS106A.
-- [ ] [CS106L - Standard C++ Programming](https://web.stanford.edu/class/archive/cs/cs106l/cs106l.1222/index.html#calendar).
 - [ ] [CS107 - Computer Organization and Systems](https://web.stanford.edu/class/archive/cs/cs107/cs107.1224/calendar). Prereq: CS106B.
 - [ ] [CS110 - Principles of Computer Systems](https://web.stanford.edu/class/cs110/). Prereq: CS107.
 - [ ] [CS161 - Design and Analysis of Algorithms](https://web.stanford.edu/class/archive/cs/cs161/cs161.1166/). Prereq: CS103.
