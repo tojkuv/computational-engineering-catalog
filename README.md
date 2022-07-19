@@ -48,5 +48,5 @@ Pick additional courses.
 - [ ] [Rust](https://doc.rust-lang.org/book/).[^1]
 ### Quantum Computation Awesomeness
 - [ ] [Awesome](https://github.com/desireevl/awesome-quantum-computing).[^2]
-[^1]: Unsubvertable Code, Fearless-Concurrency, Perpetual Backwards-Compatibility. Finally. No More Languages Hell.
+[^1]: Unsubvertable Code, Fearless-Concurrency, Perpetual Backwards-Compatibility. Finally, No More Programming Languages Hell.
 [^2]: [Gallery](https://archive.org/details/1111101000-robots/page/n1/mode/2up?view=theater).
