@@ -44,10 +44,8 @@ Pick additional courses.
 ## Spesifications
 ### List Processor Dialect
 - [ ] [Scheme](https://www.schemers.org/).
-### Modern Functional Programming Language
+### Fearless-Concurrency Functional Programming. Finally.
 - [ ] [Rust](https://doc.rust-lang.org/book/).
-### Concurrency-Centric Programming Language
-- [ ] [Go](https://go.dev/doc/tutorial/web-service-gin).
 ### Quantum Computation Awesomeness
 - [ ] [Awesome](https://github.com/desireevl/awesome-quantum-computing).[^1]
 
