@@ -22,6 +22,7 @@ Pick additional courses.
 - [ ] [CS106B - Programming Abstractions](https://web.stanford.edu/class/cs106b/). Prereq: CS106A.
 - [ ] [CS107 - Computer Organization and Systems](https://web.stanford.edu/class/archive/cs/cs107/cs107.1224/calendar). Prereq: CS106B.
 - [ ] [CS110 - Principles of Computer Systems](https://web.stanford.edu/class/cs110/). Prereq: CS107.
+- [ ] [CS140e - Embedded operating systems](https://github.com/dddrrreee/cs140e-20win/). Prereq: CS110.
 - [ ] [CS161 - Design and Analysis of Algorithms](https://web.stanford.edu/class/archive/cs/cs161/cs161.1166/). Prereq: CS103.
 - [ ] An Intro to Making: What is EE. Prereq: CS106A. *Create a useless-box with a micro-controller*.
 
