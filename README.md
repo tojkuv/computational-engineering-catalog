@@ -1,12 +1,16 @@
+#### currently taking
+- [ ] [CS103 - Mathematical Foundations of Computing](https://web.stanford.edu/class/cs103/schedule.html).
+- [ ] [CS106A - Programming Methodology](https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1222/).
+
 # Computer Science Catalog
 
 [Stanford Catalog](https://bulletin.stanford.edu/programs/CS-BS).
 
 ## Mathematics
 
-- [x] [CS103 - Mathematical Foundations of Computing](https://web.stanford.edu/class/cs103/schedule.html).
+- [ ] [CS103 - Mathematical Foundations of Computing](https://web.stanford.edu/class/cs103/schedule.html).
 - [ ] [CS109 - Introduction to Probability for Computer Scientists](https://web.stanford.edu/class/cs109/). Prereq: CS103.
-- [x] [18.01 - Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/syllabus/).
+- [ ] [18.01 - Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/syllabus/).
 - [ ] [18.02 - Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/pages/syllabus/). Pre-req: 18.01.
 - [ ] [18.03 - Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/). Pre-req: 18.02.
 - [ ] [18.04 - Complex Variables with Applications](https://ocw.mit.edu/courses/18-04-complex-variables-with-applications-spring-2018/pages/syllabus/).
@@ -22,7 +26,7 @@ Pick additional courses.
 ## Foundations of Computer Science
 
 - [x] [CS101 - Introduction to Computer Science](https://web.stanford.edu/class/cs101/).
-- [x] [CS106A - Programming Methodology](https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1222/).
+- [ ] [CS106A - Programming Methodology](https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1222/).
 - [ ] [CS106B - Programming Abstractions](https://web.stanford.edu/class/cs106b/). Prereq: CS106A.
 - [ ] [CS107 - Computer Organization and Systems](https://web.stanford.edu/class/archive/cs/cs107/cs107.1224/calendar). Prereq: CS106B.
 - [ ] [CS110 - Principles of Computer Systems](https://web.stanford.edu/class/cs110/). Prereq: CS107.
