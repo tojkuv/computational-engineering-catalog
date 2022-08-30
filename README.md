@@ -66,7 +66,7 @@
 
 - [ ] [Scheme](https://www.schemers.org/).
   
-  ### Functional Programming.
+  ### Contemporary Programming
 
 - [ ] [Rust](https://doc.rust-lang.org/book/).[^1]
   
