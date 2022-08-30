@@ -29,12 +29,17 @@
 
 ## Software Implementation
 - [ ] [CS143 - Compilers](https://web.stanford.edu/class/cs143/).
+- [ ] [CS145 - Data Management and Data Systems](https://cs145-fa19.github.io/#).
 
 
 
 ## Breadth
 
 ### Mathematical and Theoretical Foundations
+- [ ] Vibrations and Waves.
+- [ ] Quantum Mechanics I. Pre-req: Vibrations and Waves
+- [ ] Quantum Mechanics II.
+- [ ] Statistical Mechanics.
 
 ### Computational Systems
 
@@ -44,15 +49,7 @@
 
 ## Specializations
 
-### Real-World Computing
-
-### Software Theory
-
-### Software Systems
-- [ ] [CS145 - Data Management and Data Systems](https://cs145-fa19.github.io/#).
-- [ ] CS357S - Formal Methods for Computer Systems. Prereq: EE180.
-
-### Software Systems and Network Security
+### Operating Systems, Computer Networks, and Cryptography (inclination)
 - [ ] [CS155 - Computer and Network Security](https://crypto.stanford.edu/cs155old/cs155-spring17/).
 - [ ] [CS253 - Web Security](https://web.stanford.edu/class/cs253/).
 - [ ] [CS255 - Introduction to Cryptography](https://crypto.stanford.edu/~dabo/cs255/syllabus.html).
@@ -60,16 +57,21 @@
 - [ ] [CS344 - Topics in Computer Networks](https://bulletin.stanford.edu/courses/1058581). *learn to build a router*.
 - [ ] [CS355 - Topics in Cryptography](https://crypto.stanford.edu/~dabo/courses/cs355_spring14/syllabus.html).
 - [ ] [CS356 - Topics in Computer and Network Security](https://cs356.stanford.edu/).
-- [ ] [ Active Research in Software Systems and Security](https://seclab.stanford.edu/). [CSAIL](https://www.csail.mit.edu/).
+- [ ] [ Active Research in Network Security](https://seclab.stanford.edu/). [CSAIL](https://www.csail.mit.edu/).
+
+### Artificial Intelligence
+likely to supercede crafted algorithms for complex tasks with optimized architectures and growing datasets
+
+#### Biomedical Computation
+
+#### Robotics and Computer Graphics
 
 
 
 ## Capstones
 
-### List Processor Dialect
+### Software Theory
 - [ ] [Scheme](https://www.schemers.org/).
-
-### Functional Programming.
 - [ ] [Rust](https://doc.rust-lang.org/book/).[^1]
 
 ### Quantum Computation Awesomeness
