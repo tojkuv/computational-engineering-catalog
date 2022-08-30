@@ -4,7 +4,7 @@
 
 # Computer Science Catalog
 
-[Stanford Catalog](https://bulletin.stanford.edu/programs/CS-BS).
+[Stanford Catalog](https://bulletin.stanford.edu/programs/CS-MS).
 
 ## Mathematics
 
