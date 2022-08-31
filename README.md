@@ -35,36 +35,28 @@
 
 ## Breadth
 
-### Mathematical and Theoretical Foundations
-- [ ] Vibrations and Waves.
-- [ ] Quantum Mechanics I. Pre-req: Vibrations and Waves
-- [ ] Quantum Mechanics II.
-- [ ] Statistical Mechanics.
+### Mathematical and Theoretical
+- [ ] [CS168: The Modern Algorithmic Toolbox](https://web.stanford.edu/class/cs168/). Pre-req: CS107 and CS161.
+- [ ] [ CS265 - Randomized Algorithms and Probabilistic Analysis](https://web.stanford.edu/class/cs265/). Pre-req: CS161 and CS109.
 
-### Computational Systems
+### Incomplete Information Algorithms
+- [ ] [CS221 - Artificial Intelligence: Principles and Techniques](https://stanford-cs221.github.io/spring2022/). Pre-req: CS103, CS106B, CS109, and CS161.
+- [ ] [CS231A - Computer Vision: From 3D Reconstruction to Recognition](https://web.stanford.edu/class/cs231a/).
 
-### Applications
+### Knowledge-Base Representation
+- [ ] [CS224W - Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/). Pre-req: CS109 and CS221.
 
 
-
-## Specializations
-
-### Operating Systems, Computer Networks, and Cryptography (inclination)
+## Specialization
+### Operating Systems, Computer Networks, and Cryptography
 - [ ] [CS155 - Computer and Network Security](https://crypto.stanford.edu/cs155old/cs155-spring17/).
 - [ ] [CS253 - Web Security](https://web.stanford.edu/class/cs253/).
 - [ ] [CS255 - Introduction to Cryptography](https://crypto.stanford.edu/~dabo/cs255/syllabus.html).
 - [ ] [CS259 - Security Analysis of Network Protocols](https://web.stanford.edu/class/cs259/WWW08/).
-- [ ] [CS344 - Topics in Computer Networks](https://bulletin.stanford.edu/courses/1058581). *learn to build a router*.
+- [ ] [CS344 - Topics in Computer Networks](https://bulletin.stanford.edu/courses/1058581).
 - [ ] [CS355 - Topics in Cryptography](https://crypto.stanford.edu/~dabo/courses/cs355_spring14/syllabus.html).
 - [ ] [CS356 - Topics in Computer and Network Security](https://cs356.stanford.edu/).
 - [ ] [ Active Research in Network Security](https://seclab.stanford.edu/). [CSAIL](https://www.csail.mit.edu/).
-
-### Artificial Intelligence
-likely to supercede crafted algorithms for complex tasks with optimized architectures and growing datasets
-
-#### Biomedical Computation
-
-#### Robotics and Computer Graphics
 
 
 
@@ -76,6 +68,11 @@ likely to supercede crafted algorithms for complex tasks with optimized architec
 
 ### Quantum Computation Awesomeness
 - [ ] [Awesome](https://github.com/desireevl/awesome-quantum-computing).[^2]
+#### Relevant Topics
+- [ ] Vibrations and Waves.
+- [ ] Quantum Mechanics I. Pre-req: Vibrations and Waves
+- [ ] Quantum Mechanics II.
+- [ ] Statistical Mechanics.
 
 
 
