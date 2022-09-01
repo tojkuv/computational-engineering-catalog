@@ -11,7 +11,7 @@
 
 
 ## Foundations
-### Mathematical Computation Concepts and Probability Foundations
+### Computation Theory, Probabilities, and Linear Algebra
 - [ ] [CS103 - Mathematical Foundations of Computing](https://web.stanford.edu/class/cs103/schedule.html).
 - [ ] [CS109 - Introduction to Probability for Computer Scientists](https://web.stanford.edu/class/cs109/). Prereq: 
 CS103.
