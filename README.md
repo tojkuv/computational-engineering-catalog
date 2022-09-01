@@ -11,7 +11,7 @@
 
 
 ## Foundations
-### Linear Algebra and Calculus
+### Linear Algebra and Differential Equations
 - [ ] [18.06 - Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/syllabus/).
     - [Linear Dynamical Systems](http://ee263.stanford.edu/lectures.html).
 - [ ] [18.01 - Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/syllabus/).
@@ -37,7 +37,7 @@ CS103.
 
 
 ## Breadth
-### Computer Systems Architecture
+### Low-Level Systems Architecture
 - [ ] [6.004 - Computational Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/). 
 - [ ] [6.823 - Computer Systems Architecture](https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/).
 Prereq: 6.004.
@@ -45,23 +45,24 @@ Prereq: 6.004.
 #### Core Algorithms
 - [ ] [CS168 - The Modern Algorithmic Toolbox](https://web.stanford.edu/class/cs168/). Prereq: CS107 and CS161. [^2]
 Prereq: CS103, CS106B, CS109, and CS161.
-- [ ] [CS221 - Artificial Intelligence: Principles and Techniques](https://stanford-cs221.github.io/spring2022/). 
+- [ ] [CS221 - Artificial Intelligence: Principles and Techniques](https://stanford-cs221.github.io/spring2022/).
+Prereq: CS103, CS106B, CS109, and CS161.
 #### Software Theory Algorithms
 - [ ] [CS250 - Algebraic Error Correcting Codes](https://web.stanford.edu/class/cs250/). Prereq: Linear Algebra and
 CS109.
 - [ ] [ CS265 - Randomized Algorithms and Probabilistic Analysis](https://web.stanford.edu/class/cs265/). Prereq: CS161 and CS109.
+### Knowledge-Base Representation
+- [ ] [CS224W - Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/). Prereq: CS109 and CS221.
 ### Database Systems
 - [ ] [CS145 - Data Management and Data Systems](https://cs145-fa19.github.io/#). Prereq: CS103 and CS107. 
 - [ ] [CS245 - Principles of Data-Intensive Systems](https://web.stanford.edu/class/cs245/) Prereq: CS145 and CS161.
 #### Supplimentals and Alternatives
 - [ ] [CS246 - Mining Massive Data Sets](https://web.stanford.edu/class/cs246/). Prereq: CS145.
 - [ ] [CS276 - Information Retrieval and Web Search](https://web.stanford.edu/class/cs276/index.html). Prereq: CS107, CS109, and CS161.
-### Knowledge-Base Representation
-- [ ] [CS224W - Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/). Prereq: CS109 and CS221.
 
 
 
-## Specialization: Software Theory and Industry Practices
+## Specialization: Software Theory and Computer Networks
 ### Programming Language Design
 - [ ] [CS143 - Compilers](https://web.stanford.edu/class/cs143/). Prereq: CS103 and CS107.
 - [ ] [CS242 - Programming Languages](https://web.stanford.edu/class/cs242/). Prereq: 103 and 110.
