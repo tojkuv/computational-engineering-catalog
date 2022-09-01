@@ -6,30 +6,22 @@
 
 
 # Computer Science Catalog
-[Stanford Catalog](https://bulletin.stanford.edu/programs/CS-BS).
+[  Stanford Catalog](https://bulletin.stanford.edu/programs/CS-BS).
 
 
 
 ## Foundations
-### Linear Algebra and Differential Equations
+### Linear Algebra 
 - [ ] [18.06 - Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/syllabus/).
     - [Linear Dynamical Systems](http://ee263.stanford.edu/lectures.html).
-- [ ] [18.01 - Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/syllabus/).
-- [ ] [18.02 - Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/pages/syllabus/). Prereq: 18.01.
-- [ ] [18.03 - Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/). Prereq: 
-18.02.
-### Classical Physics and Classical Electromagnetism
-- [ ] [8.01 - Classical Mechanics](https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/). Co-req: Multivariable Calculus.
-- [ ] [8.02 - Electricity and Magnetism. Prereq: 8.01](https://ocw.mit.edu/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/). Prereq: Linear Algebra and Multivariable Calculus.
-### Computational Science 
-#### Mathematical Computation Concepts and Probability Foundations
+### Mathematical Computation Concepts and Probability Foundations
 - [ ] [CS103 - Mathematical Foundations of Computing](https://web.stanford.edu/class/cs103/schedule.html).
 - [ ] [CS109 - Introduction to Probability for Computer Scientists](https://web.stanford.edu/class/cs109/). Prereq: 
 CS103.
-#### Programing Paradigms, Data Structures, and Deterministic Algorithms
+### Programing Paradigms, Data Structures, and Deterministic Algorithms
 - [ ] [CS106B - Programming Abstractions](https://web.stanford.edu/class/cs106b/). Prereq: CS106A.
 - [ ] [CS161 - Design and Analysis of Algorithms](https://web.stanford.edu/class/archive/cs/cs161/cs161.1166/). Prereq: CS103.
-#### Operating Systems Foundations
+### Operating Systems Foundations
 - [ ] [CS107 - Computer Organization and Systems](https://web.stanford.edu/class/archive/cs/cs107/cs107.1224/calendar). Prereq: CS106B.
 - [ ] [CS110 - Principles of Computer Systems](https://web.stanford.edu/class/cs110/). Prereq: CS107.
 - [ ] [CS111 - Operating Systems Principles](https://web.stanford.edu/class/cs111/spring22/). Prereq: CS107.
@@ -41,7 +33,22 @@ CS103.
 - [ ] [6.004 - Computational Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/). 
 - [ ] [6.823 - Computer Systems Architecture](https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/).
 Prereq: 6.004.
+### Knowledge-Base Representation
+- [ ] [CS224W - Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/). Prereq: CS109 and CS221.
+### Database Systems
+- [ ] [CS145 - Data Management and Data Systems](https://cs145-fa19.github.io/#). Prereq: CS103 and CS107. 
+- [ ] [CS245 - Principles of Data-Intensive Systems](https://web.stanford.edu/class/cs245/) Prereq: CS145 and CS161.
+#### Supplimentals and Alternatives
+- [ ] [CS246 - Mining Massive Data Sets](https://web.stanford.edu/class/cs246/). Prereq: CS145.
+- [ ] [CS276 - Information Retrieval and Web Search](https://web.stanford.edu/class/cs276/index.html). Prereq: CS107, CS109, and CS161.
+
+
 ### Non-Determinicstic Algorithms
+#### Ordianry and Partial Differential Equations
+- [ ] [18.01 - Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/syllabus/).
+- [ ] [18.02 - Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/pages/syllabus/). Prereq: 18.01.
+- [ ] [18.03 - Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/). Prereq: 
+18.02.
 #### Core Algorithms
 - [ ] [CS168 - The Modern Algorithmic Toolbox](https://web.stanford.edu/class/cs168/). Prereq: CS107 and CS161. [^2]
 Prereq: CS103, CS106B, CS109, and CS161.
@@ -51,14 +58,11 @@ Prereq: CS103, CS106B, CS109, and CS161.
 - [ ] [CS250 - Algebraic Error Correcting Codes](https://web.stanford.edu/class/cs250/). Prereq: Linear Algebra and
 CS109.
 - [ ] [ CS265 - Randomized Algorithms and Probabilistic Analysis](https://web.stanford.edu/class/cs265/). Prereq: CS161 and CS109.
-### Knowledge-Base Representation
-- [ ] [CS224W - Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/). Prereq: CS109 and CS221.
-### Database Systems
-- [ ] [CS145 - Data Management and Data Systems](https://cs145-fa19.github.io/#). Prereq: CS103 and CS107. 
-- [ ] [CS245 - Principles of Data-Intensive Systems](https://web.stanford.edu/class/cs245/) Prereq: CS145 and CS161.
-#### Supplimentals and Alternatives
-- [ ] [CS246 - Mining Massive Data Sets](https://web.stanford.edu/class/cs246/). Prereq: CS145.
-- [ ] [CS276 - Information Retrieval and Web Search](https://web.stanford.edu/class/cs276/index.html). Prereq: CS107, CS109, and CS161.
+
+
+### Classical Physics and Classical Electromagnetism
+- [ ] [8.01 - Classical Mechanics](https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/). Co-req: Multivariable Calculus.
+- [ ] [8.02 - Electricity and Magnetism. Prereq: 8.01](https://ocw.mit.edu/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/). Prereq: Linear Algebra and Multivariable Calculus.
 
 
 
