@@ -1,4 +1,4 @@
-## Current
+#### Current
 - [ ] [6.004 - Computational Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/). 
 - [ ] [CS107 - Computer Organization and Systems](https://web.stanford.edu/class/archive/cs/cs107/cs107.1224/calendar). Prereq: CS106B.
 - [ ] [CS145 - Data Management and Data Systems](https://cs145-fa19.github.io/#). Prereq: CS103 and CS107. 
@@ -11,13 +11,12 @@
 
 
 ## Foundations
-### Linear Algebra 
-- [ ] [18.06 - Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/syllabus/).
-    - [Linear Dynamical Systems](http://ee263.stanford.edu/lectures.html).
 ### Mathematical Computation Concepts and Probability Foundations
 - [ ] [CS103 - Mathematical Foundations of Computing](https://web.stanford.edu/class/cs103/schedule.html).
 - [ ] [CS109 - Introduction to Probability for Computer Scientists](https://web.stanford.edu/class/cs109/). Prereq: 
 CS103.
+- [ ] [18.06 - Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/syllabus/).
+    - [Linear Dynamical Systems](http://ee263.stanford.edu/lectures.html).
 ### Programing Paradigms, Data Structures, and Deterministic Algorithms
 - [ ] [CS106B - Programming Abstractions](https://web.stanford.edu/class/cs106b/). Prereq: CS106A.
 - [ ] [CS161 - Design and Analysis of Algorithms](https://web.stanford.edu/class/archive/cs/cs161/cs161.1166/). Prereq: CS103.
