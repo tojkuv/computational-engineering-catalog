@@ -1,11 +1,11 @@
-#### Current
+#### current
 - [ ] [6.004 - Computational Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/). 
 - [ ] [CS107 - Computer Organization and Systems](https://web.stanford.edu/class/archive/cs/cs107/cs107.1224/calendar). Prereq: CS106B.
 - [ ] [CS145 - Data Management and Data Systems](https://cs145-fa19.github.io/#). Prereq: CS103 and CS107. 
 
 
 
-# Computer Science Catalog
+# Software Theory and Computer Networks Catalog
 [  Stanford Catalog](https://bulletin.stanford.edu/programs/CS-BS).
 
 
@@ -40,10 +40,8 @@ Prereq: 6.004.
 #### Supplimentals and Alternatives
 - [ ] [CS246 - Mining Massive Data Sets](https://web.stanford.edu/class/cs246/). Prereq: CS145.
 - [ ] [CS276 - Information Retrieval and Web Search](https://web.stanford.edu/class/cs276/index.html). Prereq: CS107, CS109, and CS161.
-
-
 ### Non-Determinicstic Algorithms
-#### Ordianry and Partial Differential Equations
+#### Integrals, Ordianry Differential Equations, and Partial Differential Equations
 - [ ] [18.01 - Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/syllabus/).
 - [ ] [18.02 - Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/pages/syllabus/). Prereq: 18.01.
 - [ ] [18.03 - Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/). Prereq: 
@@ -57,8 +55,6 @@ Prereq: CS103, CS106B, CS109, and CS161.
 - [ ] [CS250 - Algebraic Error Correcting Codes](https://web.stanford.edu/class/cs250/). Prereq: Linear Algebra and
 CS109.
 - [ ] [ CS265 - Randomized Algorithms and Probabilistic Analysis](https://web.stanford.edu/class/cs265/). Prereq: CS161 and CS109.
-
-
 ### Classical Physics and Classical Electromagnetism
 - [ ] [8.01 - Classical Mechanics](https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/). Co-req: Multivariable Calculus.
 - [ ] [8.02 - Electricity and Magnetism. Prereq: 8.01](https://ocw.mit.edu/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/). Prereq: Linear Algebra and Multivariable Calculus.
@@ -80,7 +76,7 @@ CS109.
 - [ ] [CS155 - Computer and Network Security](https://cs155.stanford.edu/syllabus.html). Prereq: CS110.
 #### In-Depth
 - [ ] [CS249I - The Modern Internet](https://cs249i.stanford.edu/). Prereq: CS144.
-- [ ] [CS244 - Advanced Topics in Networking](https://2022-cs244.github.io/). Prereq: 144.
+- [ ] [CS244 -  Advanced Topics in Networking](https://2022-cs244.github.io/). Prereq: 144.
 - [ ] [CS356 - Topics in Computer and Network Security](https://cs356.stanford.edu/). Prereq: CS155.
 ### Web Applications
 - [ ] [CS142 - Web Applications](https://web.stanford.edu/class/cs142/index.html). Prereq: CS107.
@@ -118,6 +114,13 @@ CS109.
 - [ ] Quantum Mechanics I. Pre-req: Vibrations and Waves
 - [ ] Quantum Mechanics II.
 - [ ] Statistical Mechanics.
+
+
+
+# Timelines and Historical Records
+- [ ] [Computing timelines](https://en.wikipedia.org/wiki/Category:Computing_timelines).
+    - [ ] [Timeline of general computing 2020–present](https://en.wikipedia.org/wiki/Timeline_of_computing_2020%E2%80%93present).
+    - [ ] [Timeline of quantum computing](https://en.wikipedia.org/wiki/Timeline_of_quantum_computing_and_communication).
 
 
 
