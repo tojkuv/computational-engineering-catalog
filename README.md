@@ -1,12 +1,15 @@
 #### current
-- [ ] [6.004 - Computational Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/). 
-- [ ] [CS107 - Computer Organization and Systems](https://web.stanford.edu/class/archive/cs/cs107/cs107.1224/calendar). Prereq: CS106B.
-- [ ] [CS145 - Data Management and Data Systems](https://cs145-fa19.github.io/#). Prereq: CS103 and CS107. 
+- [6.004 - Computational Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/). 
+- [CS107 - Computer Organization and Systems](https://web.stanford.edu/class/archive/cs/cs107/cs107.1224/calendar). Prereq: CS106B.
+- [CS145 - Data Management and Data Systems](https://cs145-fa19.github.io/#). Prereq: CS103 and CS107. 
 
-
+#### Notes
+- Foundational classes ranking (in helpfulness): CS107:CS109:CS103
 
 # Software Theory and Computer Networks Catalog
-[  Stanford Catalog](https://bulletin.stanford.edu/programs/CS-BS).
+[Stanford Bachelors Catalog](https://bulletin.stanford.edu/programs/CS-BS).
+[Stanford Masters Catalog](https://bulletin.stanford.edu/programs/CS-MS).
+[MIT OpenCourseWare](https://ocw.mit.edu/search/).
 
 
 
@@ -18,11 +21,12 @@ CS103.
 - [ ] [18.06 - Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/syllabus/).
     - [Linear Dynamical Systems](http://ee263.stanford.edu/lectures.html).
 ### Programing Paradigms, Data Structures, and Deterministic Algorithms
-- [ ] [CS106B - Programming Abstractions](https://web.stanford.edu/class/cs106b/). Prereq: CS106A.
+- [ ] [CS106B - Programming Abstractions](https://web.stanford.edu/class/cs106b/).
 - [ ] [CS161 - Design and Analysis of Algorithms](https://web.stanford.edu/class/archive/cs/cs161/cs161.1166/). Prereq: CS103.
 ### Operating Systems Foundations
-- [ ] [CS107 - Computer Organization and Systems](https://web.stanford.edu/class/archive/cs/cs107/cs107.1224/calendar). Prereq: CS106B.
+- [ ] [CS107 - Computer Organization and Systems](https://web.stanford.edu/class/archive/cs/cs107/cs107.1232/). Prereq: CS106B.
 - [ ] [CS110 - Principles of Computer Systems](https://web.stanford.edu/class/cs110/). Prereq: CS107.
+or
 - [ ] [CS111 - Operating Systems Principles](https://web.stanford.edu/class/cs111/spring22/). Prereq: CS107.
 
 
@@ -64,7 +68,7 @@ CS109.
 ## Specialization: Software Theory and Computer Networks
 ### Programming Language Design
 - [ ] [CS143 - Compilers](https://web.stanford.edu/class/cs143/). Prereq: CS103 and CS107.
-- [ ] [CS242 - Programming Languages](https://web.stanford.edu/class/cs242/). Prereq: 103 and 110.
+- [ ] [CS242 - Programming Languages](https://stanford-cs242.github.io/f19/). Prereq: 103 and 110.
 - [ ] [CS243 - Program Analysis and Optimizations](https://suif.stanford.edu/~courses/cs243/#handouts) Prereq: CS103
 ### Distributed Systems
 - [ ] [CS244B - Distributed Systems](https://www.scs.stanford.edu/20sp-cs244b/). Prereq: CS144
@@ -97,19 +101,24 @@ CS109.
 
 
 ## Capstone
+### Computer Systems
 - [ ] [Rust](https://doc.rust-lang.org/book/).[^1]
-### Parallel Processing
+#### Operating System
+- [ ] [Build an Operating System](https://os.phil-opp.com/).
+#### Parallel Processing
 - [ ] [CS149 - Parallel Computing](https://gfxcourses.stanford.edu/cs149/fall21). Prereq: CS110.
 - [ ] [CS217 - Hardware Accelerators for Machine Learning](https://cs217.stanford.edu/). Prerq: 149.
-### Build an Internet Router
+### Networks
+#### Internet Router
 - [ ] [CS344 - Topics in Computer Networks](https://cs344-stanford.github.io/schedule/). Prereq: CS144
-### Distributed Mobile Networks
+#### Distributed Mobile Networks
 - [ ] [CS259 - Security Analysis of Network Protocols](https://web.stanford.edu/class/cs259/WWW08/).
 - [ ] [CS261 - Optimization and Algorithmic Paradigms](https://theory.stanford.edu/~trevisan/cs261/). Prereq: CS161.
 - [ ] [Active Research in Network Security](https://seclab.stanford.edu/). [CSAIL](https://www.csail.mit.edu/).
-### Quantum Computation Awesomeness
+### Unclassified
+#### Quantum Computation Awesomeness
 - [ ] [Awesome](https://github.com/desireevl/awesome-quantum-computing).
-#### Relevant Topics
+##### Relevant Topics
 - [ ] Vibrations and Waves.
 - [ ] Quantum Mechanics I. Pre-req: Vibrations and Waves
 - [ ] Quantum Mechanics II.
