@@ -1,12 +1,3 @@
-#### current
-- [6.004 - Computational Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/). 
-- [CS107 - Computer Organization and Systems](https://web.stanford.edu/class/archive/cs/cs107/cs107.1224/calendar). Prereq: CS106B.
-- [CS145 - Data Management and Data Systems](https://cs145-fa19.github.io/#). Prereq: CS103 and CS107. 
-
-#### Notes
-
-- Foundational classes ranking (in helpfulness): CS107:CS109:CS103
-
 # Software Theory and Computer Networks Catalog
 
 [Stanford Bachelors Catalog](https://bulletin.stanford.edu/programs/CS-BS).
