@@ -127,20 +127,13 @@
 - [ ] [CS259 - Security Analysis of Network Protocols](https://web.stanford.edu/class/cs259/WWW08/).
 - [ ] [CS261 - Optimization and Algorithmic Paradigms](https://theory.stanford.edu/~trevisan/cs261/). Prereq: CS161.
 - [ ] [Active Research in Network Security](https://seclab.stanford.edu/). [CSAIL](https://www.csail.mit.edu/).
-  
-  ### Unclassified
-  
-  #### Quantum Computation Awesomeness
-- [ ] [Awesome](https://github.com/desireevl/awesome-quantum-computing).
-  
-  ##### Relevant Topics
-- [ ] Vibrations and Waves.
-- [ ] Quantum Mechanics I. Pre-req: Vibrations and Waves
-- [ ] Quantum Mechanics II.
-- [ ] Statistical Mechanics.
-
-# Timelines and Historical Records
-
+ 
+# Resources
+## Wikipedia
 - [ ] [Computing timelines](https://en.wikipedia.org/wiki/Category:Computing_timelines).
   - [ ] [Timeline of general computing 2020–present](https://en.wikipedia.org/wiki/Timeline_of_computing_2020%E2%80%93present).
-  - [ ] [Timeline of quantum computing](https://en.wikipedia.org/wiki/Timeline_of_quantum_computing_and_communication).
+## Github
+- [ ] [Bytecode Alliance](https://github.com/bytecodealliance).
+- [ ] [Cloud Native Computing Foundation](https://github.com/cncf).
+
+
