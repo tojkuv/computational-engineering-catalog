@@ -136,5 +136,6 @@
 ## Github
 - [Bytecode Alliance](https://github.com/bytecodealliance).
 - [Cloud Native Computing Foundation](https://github.com/cncf).
+  - [Cloud Native Landscape](https://landscape.cncf.io/?project=hosted,member&license=open-source&zoom=80).
 
 
