@@ -132,7 +132,7 @@
 ## Wikipedia
 - [Computing timelines](https://en.wikipedia.org/wiki/Category:Computing_timelines).
   - [Timeline of general computing 2020–present](https://en.wikipedia.org/wiki/Timeline_of_computing_2020%E2%80%93present).
-  - [Programming Paradigms](https://github.com/cncf](https://en.wikipedia.org/wiki/Programming_paradigm).
+  - [Programming Paradigms](https://en.wikipedia.org/wiki/Programming_paradigm).
 ## Github
 - [Bytecode Alliance](https://github.com/bytecodealliance).
 - [Cloud Native Computing Foundation](https://github.com/cncf).
