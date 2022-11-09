@@ -105,35 +105,13 @@
 - [ ] [CS357 - Advanced Topics in Formal Methods](https://web.stanford.edu/class/cs357/). Prereq: CS161.
 - [ ] [EE364A - Convex Optimization I](https://web.stanford.edu/class/ee364a/lectures.html). Prereq: Linear Algebra.
 
-## Capstone
-
-### Computer Systems
-
-- [ ] [Rust](https://doc.rust-lang.org/book/).
-  
-  #### Operating System
-- [ ] [Build an Operating System](https://os.phil-opp.com/).
-  
-  #### Parallel Processing
-- [ ] [CS149 - Parallel Computing](https://gfxcourses.stanford.edu/cs149/fall21). Prereq: CS110.
-- [ ] [CS217 - Hardware Accelerators for Machine Learning](https://cs217.stanford.edu/). Prerq: 149.
-  
-  ### Networks
-  
-  #### Internet Router
-- [ ] [CS344 - Topics in Computer Networks](https://cs344-stanford.github.io/schedule/). Prereq: CS144
-  
-  #### Distributed Mobile Networks
-- [ ] [CS259 - Security Analysis of Network Protocols](https://web.stanford.edu/class/cs259/WWW08/).
-- [ ] [CS261 - Optimization and Algorithmic Paradigms](https://theory.stanford.edu/~trevisan/cs261/). Prereq: CS161.
-- [ ] [Active Research in Network Security](https://seclab.stanford.edu/). [CSAIL](https://www.csail.mit.edu/).
- 
 # Resources
 ## Wikipedia
 - [Computing timelines](https://en.wikipedia.org/wiki/Category:Computing_timelines).
   - [Timeline of general computing 2020–present](https://en.wikipedia.org/wiki/Timeline_of_computing_2020%E2%80%93present).
 - [Programming Paradigms](https://en.wikipedia.org/wiki/Programming_paradigm).
 ## Github
+- [The Rust Programming Language](https://github.com/rust-lang).
 - [Bytecode Alliance](https://github.com/bytecodealliance).
 - [Cloud Native Computing Foundation](https://github.com/cncf).
   - [Cloud Native Landscape](https://landscape.cncf.io/?project=hosted,member&license=open-source&zoom=80).
