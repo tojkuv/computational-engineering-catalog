@@ -1,0 +1,3 @@
+[submodule "the-rust-book"]
+	path = the-rust-book
+	url = ./the-rust-book
