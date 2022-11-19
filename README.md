@@ -1,4 +1,4 @@
-# Software Theory and Computer Networks Catalog
+# Computational Theory, Networks Engineering, System Interfaces Engineering, and Applications Engineering
 
 [Stanford Bachelors Catalog](https://bulletin.stanford.edu/programs/CS-BS).
 [Stanford Masters Catalog](https://bulletin.stanford.edu/programs/CS-MS).
