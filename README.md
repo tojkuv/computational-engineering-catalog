@@ -107,9 +107,11 @@
 
 # Resources
 ## Wikipedia
-- [Computing timelines](https://en.wikipedia.org/wiki/Category:Computing_timelines).
-  - [Timeline of general computing 2020–present](https://en.wikipedia.org/wiki/Timeline_of_computing_2020%E2%80%93present).
-- [Programming Paradigms](https://en.wikipedia.org/wiki/Programming_paradigm).
+- [Computer Science](https://en.wikipedia.org/wiki/Computer_science).
+    - [Computing timelines](https://en.wikipedia.org/wiki/Category:Computing_timelines).
+      - [Timeline of general computing 2020–present](https://en.wikipedia.org/wiki/Timeline_of_computing_2020%E2%80%93present).
+    - [Programming Paradigms](https://en.wikipedia.org/wiki/Programming_paradigm).
+
 ## Organizations
 - [Cloud Native Computing Foundation](https://github.com/cncf).
   - [Cloud Native Landscape](https://landscape.cncf.io/?project=hosted,member&license=open-source&zoom=80).
