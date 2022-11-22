@@ -1,4 +1,4 @@
-# Computational Theory, Networks Engineering, System Interfaces Engineering, and Applications Engineering
+# Computational Theory, Networks Engineering, System Interfaces Engineering, and Computational Engineering
 
 [Stanford Bachelors Catalog](https://bulletin.stanford.edu/programs/CS-BS).
 [Stanford Masters Catalog](https://bulletin.stanford.edu/programs/CS-MS).
