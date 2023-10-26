@@ -113,7 +113,7 @@
       - [Timeline of general computing 2020–present](https://en.wikipedia.org/wiki/Timeline_of_computing_2020%E2%80%93present).
     - [Programming Paradigms](https://en.wikipedia.org/wiki/Programming_paradigm).
 
-## Organizations
+## Relevant Resources
 - [Cloud Native Computing Foundation](https://github.com/cncf).
   - [Cloud Native Landscape](https://landscape.cncf.io/?project=hosted,member&license=open-source&zoom=80).
 - [Bytecode Alliance](https://github.com/bytecodealliance).
