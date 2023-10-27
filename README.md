@@ -31,7 +31,7 @@ TODO: reduce the list
 - [ ] [CS112 - Operating Systems](https://www.scs.stanford.edu/22wi-cs212/) Prereq: CS111.
 
 ### Cryptography
-- [ ] [CS255 - Introduction to Cryptography](https://crypto.stanford.edu/~dabo/cs255/syllabus.html](https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/). Prereq: CS110.
+- [ ] [CS255 - Introduction to Cryptography](https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/) Prereq: CS110.
 
 
 ## Breadth
