@@ -114,6 +114,7 @@
     - [Programming Paradigms](https://en.wikipedia.org/wiki/Programming_paradigm).
 
 ## Additional Resources
+- [Libgen](https://libgen.rs/).
 - [Cloud Native Computing Foundation](https://github.com/cncf).
   - [Cloud Native Landscape](https://landscape.cncf.io/?project=hosted,member&license=open-source&zoom=80).
 - [Bytecode Alliance](https://github.com/bytecodealliance).
