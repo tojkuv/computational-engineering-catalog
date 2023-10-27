@@ -41,7 +41,7 @@
   
 ### Algorithms
   
-#### Core Algorithms
+#### Inference Algorithms
 - [ ] [CS168 - The Modern Algorithmic Toolbox](https://web.stanford.edu/class/cs168/). Prereq: CS107 and CS161. 
 - [ ] [CS221 - Artificial Intelligence: Principles and Techniques](https://stanford-cs221.github.io/spring2022/).
   Prereq: CS103, CS106B, CS109, and CS161.
