@@ -25,7 +25,7 @@
 
 ## Breadth
 
-### Low-Level Systems Architecture
+### Hardware Systems Architecture
 
 - [ ] [6.004 - Computational Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/). 
 - [ ] [6.823 - Computer Systems Architecture](https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/).
