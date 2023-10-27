@@ -104,7 +104,7 @@
 
 # Resources
 ## Books
-- [TODO](https://github.com).
+- TODO
 ## Wikipedia
 - [Computer Science](https://en.wikipedia.org/wiki/Computer_science).
     - [Computing timelines](https://en.wikipedia.org/wiki/Category:Computing_timelines).
