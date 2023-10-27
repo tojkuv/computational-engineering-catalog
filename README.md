@@ -24,7 +24,7 @@
 - [ ] [CS106B - Programming Abstractions](https://web.stanford.edu/class/cs106b/).
 
 ### Operating Systems
-TODO: reduce the list
+- [ ] TODO: reduce the list
 - [ ] [CS107 - Computer Organization and Systems](https://web.stanford.edu/class/archive/cs/cs107/cs107.1232/). Prereq: CS106B.
 - [ ] [CS110 - Principles of Computer Systems](https://web.stanford.edu/class/cs110/). Prereq: CS107.
 - [ ] [CS111 - Operating Systems Principles](https://web.stanford.edu/class/cs111/spring22/). Prereq: CS107.
@@ -35,7 +35,7 @@ TODO: reduce the list
 
 
 ## Breadth
-TODO: one course per section
+- [ ] TODO: reduce to one course per section
 ### Hardware Architecture
 - [ ] [6.004 - Computational Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/).
 - [ ] [6.823 - Computer Systems Architecture](https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/). Prereq: 6.004.
@@ -47,7 +47,7 @@ TODO: one course per section
 - [ ] [CS155 - Computer and Network Security](https://cs155.stanford.edu/syllabus.html). Prereq: CS110.
 
 ### Databases and Information Retrieval
-TODO: Reduce the list
+- [ ] TODO: Reduce the list
 - [ ] [CS145 - Data Management and Data Systems](https://cs145-fa19.github.io/#). Prereq: CS103 and CS107.
 - [ ] [CS245 - Principles of Data-Intensive Systems](https://web.stanford.edu/class/cs245/) Prereq: CS145 and CS161.
 - [ ] [CS246 - Mining Massive Data Sets](https://web.stanford.edu/class/cs246/). Prereq: CS145.
@@ -82,8 +82,8 @@ TODO: Compilation target specification (WASM)
 - [ ] [CS243 - Program Analysis and Optimizations](https://suif.stanford.edu/~courses/cs243/#handouts) Prereq: CS103
 
 ### Operating Systems 
-TODO: Depth courses
-TODO: operating system design specification (WASI)
+- [ ] TODO: Depth courses
+- [ ] TODO: operating system design specification (WASI)
 
 ### Networking
 - [ ] [CS249I - The Modern Internet](https://cs249i.stanford.edu/). Prereq: CS144.
@@ -107,7 +107,7 @@ TODO: operating system design specification (WASI)
 # Resources
 
 ## Books
-- TODO
+- [ ] TODO: enumate and create sections sections like above
 
 ## Wikipedia
 - [Computer Science](https://en.wikipedia.org/wiki/Computer_science).
