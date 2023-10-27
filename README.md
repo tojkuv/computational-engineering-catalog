@@ -23,9 +23,8 @@
 ### Programing Abstractions
 - [ ] [CS106B - Programming Abstractions](https://web.stanford.edu/class/cs106b/).
 
-  
 ### Operating Systems
-TODO: reduce
+TODO: reduce the list
 - [ ] [CS107 - Computer Organization and Systems](https://web.stanford.edu/class/archive/cs/cs107/cs107.1232/). Prereq: CS106B.
 - [ ] [CS110 - Principles of Computer Systems](https://web.stanford.edu/class/cs110/). Prereq: CS107.
 - [ ] [CS111 - Operating Systems Principles](https://web.stanford.edu/class/cs111/spring22/). Prereq: CS107.
@@ -38,17 +37,20 @@ TODO: reduce
 - [ ] [6.004 - Computational Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/). 
 - [ ] [6.823 - Computer Systems Architecture](https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/).
   Prereq: 6.004.
-  
-### Databases, Information Retrieval, and Inferencing
 
-#### Databases and Information Retrieval
+### Networking
+- [ ] [CS144 - Introduction to Computer Networking](https://cs144.github.io/). Prereq: CS110.
+- [ ] [CS255 - Introduction to Cryptography](https://crypto.stanford.edu/~dabo/cs255/syllabus.html). Prereq: CS110.
+- [ ] [CS155 - Computer and Network Security](https://cs155.stanford.edu/syllabus.html). Prereq: CS110.
+
+### Databases and Information Retrieval
 TODO: Reduce the list
 - [ ] [CS145 - Data Management and Data Systems](https://cs145-fa19.github.io/#). Prereq: CS103 and CS107. 
 - [ ] [CS245 - Principles of Data-Intensive Systems](https://web.stanford.edu/class/cs245/) Prereq: CS145 and CS161.
 - [ ] [CS246 - Mining Massive Data Sets](https://web.stanford.edu/class/cs246/). Prereq: CS145.
 - [ ] [CS276 - Information Retrieval and Web Search](https://web.stanford.edu/class/cs276/index.html). Prereq: CS107, CS109, and CS161.
 
-#### Inference Algorithms
+### Data Inference Algorithms
 - [ ] [CS168 - The Modern Algorithmic Toolbox](https://web.stanford.edu/class/cs168/). Prereq: CS107 and CS161. 
 - [ ] [CS221 - Artificial Intelligence: Principles and Techniques](https://stanford-cs221.github.io/spring2022/).
   Prereq: CS103, CS106B, CS109, and CS161.
@@ -71,16 +73,11 @@ TODO: Reduce the list
 - [ ] [CS242 - Programming Languages](https://stanford-cs242.github.io/f19/). Prereq: CS103 and CS110.
 - [ ] [CS243 - Program Analysis and Optimizations](https://suif.stanford.edu/~courses/cs243/#handouts) Prereq: CS103
 
-  ### Domain Algorithms
+### Applied Algorithms
 - [ ] [CS250 - Algebraic Error Correcting Codes](https://web.stanford.edu/class/cs250/). Prereq: Linear Algebra and
   CS109.
 - [ ] [ CS265 - Randomized Algorithms and Probabilistic Analysis](https://web.stanford.edu/class/cs265/). Prereq: CS161 and CS109.
 
-### Computer Networks
-- [ ] [CS144 - Introduction to Computer Networking](https://cs144.github.io/). Prereq: CS110.
-- [ ] [CS255 - Introduction to Cryptography](https://crypto.stanford.edu/~dabo/cs255/syllabus.html). Prereq: CS110.
-- [ ] [CS155 - Computer and Network Security](https://cs155.stanford.edu/syllabus.html). Prereq: CS110.
-  
 #### In-Depth
 - [ ] [CS249I - The Modern Internet](https://cs249i.stanford.edu/). Prereq: CS144.
 - [ ] [CS244 -  Advanced Topics in Networking](https://2022-cs244.github.io/). Prereq: CS144.
