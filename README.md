@@ -11,8 +11,7 @@
 - [ ] [CS103 - Mathematical Foundations of Computing](https://web.stanford.edu/class/cs103/schedule.html).
 - [ ] [CS109 - Introduction to Probability for Computer Scientists](https://web.stanford.edu/class/cs109/). Prereq: 
   CS103.
-- [ ] [18.06 - Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/syllabus/).
-  - [Linear Dynamical Systems](http://ee263.stanford.edu/lectures.html).
+- [ ] [EE263 - Linear Dynamical Systems](http://ee263.stanford.edu/lectures.html).
     
 ### Programing Paradigms, Data Structures, and Deterministic Algorithms
 - [ ] [CS106B - Programming Abstractions](https://web.stanford.edu/class/cs106b/).
