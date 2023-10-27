@@ -40,8 +40,11 @@ TODO: reduce the list
 - [ ] [6.004 - Computational Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/).
 - [ ] [6.823 - Computer Systems Architecture](https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/). Prereq: 6.004.
 
-### Networking
+### Networking Infrastructure
 - [ ] [CS144 - Introduction to Computer Networking](https://cs144.github.io/). Prereq: CS110.
+
+### Networking Security
+- [ ] [CS155 - Computer and Network Security](https://cs155.stanford.edu/syllabus.html). Prereq: CS110.
 
 ### Databases and Information Retrieval
 TODO: Reduce the list
@@ -80,7 +83,6 @@ TODO: Reduce the list
 ### Operating Systems Standardization Specifications
 
 ### Networking In-depth
-- [ ] [CS155 - Computer and Network Security](https://cs155.stanford.edu/syllabus.html). Prereq: CS110.
 - [ ] [CS249I - The Modern Internet](https://cs249i.stanford.edu/). Prereq: CS144.
 - [ ] [CS244 -  Advanced Topics in Networking](https://2022-cs244.github.io/). Prereq: CS144.
   
