@@ -41,12 +41,6 @@
   
 ### Algorithms
   
-#### Integrals, Ordianry Differential Equations, and Partial Differential Equations
-- [ ] [18.01 - Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/syllabus/).
-- [ ] [18.02 - Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/pages/syllabus/). Prereq: 18.01.
-- [ ] [18.03 - Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/). Prereq: 
-  18.02.
-  
 #### Core Algorithms
 - [ ] [CS168 - The Modern Algorithmic Toolbox](https://web.stanford.edu/class/cs168/). Prereq: CS107 and CS161. 
 - [ ] [CS221 - Artificial Intelligence: Principles and Techniques](https://stanford-cs221.github.io/spring2022/).
@@ -56,7 +50,13 @@
 - [ ] [CS250 - Algebraic Error Correcting Codes](https://web.stanford.edu/class/cs250/). Prereq: Linear Algebra and
   CS109.
 - [ ] [ CS265 - Randomized Algorithms and Probabilistic Analysis](https://web.stanford.edu/class/cs265/). Prereq: CS161 and CS109.
-  
+
+### Integrals, Ordianry Differential Equations, and Partial Differential Equations
+- [ ] [18.01 - Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/syllabus/).
+- [ ] [18.02 - Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/pages/syllabus/). Prereq: 18.01.
+- [ ] [18.03 - Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/). Prereq: 
+  18.02.
+      
 ### Classical Physics and Classical Electromagnetism
 - [ ] [8.01 - Classical Mechanics](https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/). Co-req: Multivariable Calculus.
 - [ ] [8.02 - Electricity and Magnetism. Prereq: 8.01](https://ocw.mit.edu/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/). Prereq: Linear Algebra and Multivariable Calculus.
