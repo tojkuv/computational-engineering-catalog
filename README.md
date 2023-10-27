@@ -81,7 +81,7 @@
 
 
 ## Depth
-
+- [ ] TODO: include additional depth sections
 ### Programming Language Design
 - [ ] TODO: Compilation target specification (WASM)
 - [ ] [CS143 - Compilers](https://web.stanford.edu/class/cs143/). Prereq: CS103 and CS107.
@@ -120,7 +120,7 @@
 - [ ] [CS348I - Computer Graphics in the Era of AI](http://cs348i.stanford.edu/#home). Prereq: CS148.
 
 ### Graphics Inference-based Generators
-  
+
 ### Theoretical Computer Science
 - [ ] [CME307 Optimization](https://web.stanford.edu/class/msande311/handout.shtml).
 - [ ] [CS357 - Advanced Topics in Formal Methods](https://web.stanford.edu/class/cs357/). Prereq: CS161.
