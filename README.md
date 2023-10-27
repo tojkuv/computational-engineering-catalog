@@ -30,6 +30,9 @@ TODO: reduce the list
 - [ ] [CS111 - Operating Systems Principles](https://web.stanford.edu/class/cs111/spring22/). Prereq: CS107.
 - [ ] [CS112 - Operating Systems](https://www.scs.stanford.edu/22wi-cs212/) Prereq: CS111.
 
+### Cryptography
+- [ ] [CS255 - Introduction to Cryptography]([https://crypto.stanford.edu/~dabo/cs255/syllabus.html](https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/)). Prereq: CS110.
+
 
 ## Breadth
 
@@ -40,7 +43,6 @@ TODO: reduce the list
 
 ### Networking
 - [ ] [CS144 - Introduction to Computer Networking](https://cs144.github.io/). Prereq: CS110.
-- [ ] [CS255 - Introduction to Cryptography](https://crypto.stanford.edu/~dabo/cs255/syllabus.html). Prereq: CS110.
 - [ ] [CS155 - Computer and Network Security](https://cs155.stanford.edu/syllabus.html). Prereq: CS110.
 
 ### Databases and Information Retrieval
