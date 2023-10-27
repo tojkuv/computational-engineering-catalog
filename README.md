@@ -44,9 +44,7 @@ TODO: Reduce the list
 - [ ] [CS221 - Artificial Intelligence: Principles and Techniques](https://stanford-cs221.github.io/spring2022/).
   Prereq: CS103, CS106B, CS109, and CS161.
   
-### Algorithms
-
-#### Software Theory Algorithms
+### Domain Algorithms
 - [ ] [CS250 - Algebraic Error Correcting Codes](https://web.stanford.edu/class/cs250/). Prereq: Linear Algebra and
   CS109.
 - [ ] [ CS265 - Randomized Algorithms and Probabilistic Analysis](https://web.stanford.edu/class/cs265/). Prereq: CS161 and CS109.
