@@ -46,6 +46,9 @@
 ### Networking Security
 - [ ] [CS155 - Computer and Network Security](https://cs155.stanford.edu/syllabus.html). Prereq: CS110.
 
+### Web Applications
+- [ ] [CS142 - Web Applications](https://web.stanford.edu/class/cs142/index.html). Prereq: CS107.
+
 ### Databases and Information Retrieval
 - [ ] TODO: Reduce the list
 - [ ] [CS145 - Data Management and Data Systems](https://cs145-fa19.github.io/#). Prereq: CS103 and CS107.
@@ -76,21 +79,28 @@
 ## Depth
 
 ### Programming Language Design
-TODO: Compilation target specification (WASM)
+- [ ] TODO: Compilation target specification (WASM)
 - [ ] [CS143 - Compilers](https://web.stanford.edu/class/cs143/). Prereq: CS103 and CS107.
 - [ ] [CS242 - Programming Languages](https://stanford-cs242.github.io/f19/). Prereq: CS103 and CS110.
 - [ ] [CS243 - Program Analysis and Optimizations](https://suif.stanford.edu/~courses/cs243/#handouts) Prereq: CS103
 
 ### Operating Systems 
-- [ ] TODO: Depth courses
+- [ ] TODO: courses
 - [ ] TODO: operating system design specification (WASI)
 
-### Networking
+### Cryptography
+- [ ] [CS355 Topics in Cryptography](https://crypto.stanford.edu/~dabo/courses/cs355_spring14/syllabus.html).
+
+### TCP/IP Networking
 - [ ] [CS249I - The Modern Internet](https://cs249i.stanford.edu/). Prereq: CS144.
 - [ ] [CS244 -  Advanced Topics in Networking](https://2022-cs244.github.io/). Prereq: CS144.
-  
+
+### Distributed Ledger Networking
+- [ ] [CS 251: Blockchain Technologies](https://cs251.stanford.edu/syllabus.html).
+- [ ] [Saito Distributed Ledger](https://saito.tech/).
+
 ### Web Applications
-- [ ] [CS142 - Web Applications](https://web.stanford.edu/class/cs142/index.html). Prereq: CS107.
+- [ ] TODO: web development frameworks
 - [ ] [CS253 - Web Security](https://web.stanford.edu/class/cs253/). Prereq: CS142.
 
 ### Computer Graphics
@@ -120,7 +130,6 @@ TODO: Compilation target specification (WASM)
 - [How to Read a Paper](https://2022-cs244.github.io/papers/L1-how-to-read.pdf).
 - [Bytecode Alliance](https://github.com/bytecodealliance).
 - [The Rust Programming Language](https://github.com/rust-lang).
-- [Saito Distributed Ledger](https://saito.tech/).
 - [Cloud Native Computing Foundation](https://github.com/cncf).
   - [Cloud Native Landscape](https://landscape.cncf.io/?project=hosted,member&license=open-source&zoom=80).
 
