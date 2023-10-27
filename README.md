@@ -76,13 +76,16 @@ TODO: Reduce the list
 ## Depth
 
 ### Programming Language Design
+TODO: Compilation target specification (WASM)
 - [ ] [CS143 - Compilers](https://web.stanford.edu/class/cs143/). Prereq: CS103 and CS107.
 - [ ] [CS242 - Programming Languages](https://stanford-cs242.github.io/f19/). Prereq: CS103 and CS110.
 - [ ] [CS243 - Program Analysis and Optimizations](https://suif.stanford.edu/~courses/cs243/#handouts) Prereq: CS103
 
-### Operating Systems Standardization Specifications
+### Operating Systems 
+TODO: Depth courses
+TODO: operating system design specification (WASI)
 
-### Networking In-depth
+### Networking
 - [ ] [CS249I - The Modern Internet](https://cs249i.stanford.edu/). Prereq: CS144.
 - [ ] [CS244 -  Advanced Topics in Networking](https://2022-cs244.github.io/). Prereq: CS144.
   
