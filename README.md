@@ -17,11 +17,13 @@
 - [ ] [CS106B - Programming Abstractions](https://web.stanford.edu/class/cs106b/).
 - [ ] [CS161 - Design and Analysis of Algorithms](https://web.stanford.edu/class/archive/cs/cs161/cs161.1166/). Prereq: CS103.
   
-### Operating Systems Foundations
+### Operating Systems
 - [ ] [CS107 - Computer Organization and Systems](https://web.stanford.edu/class/archive/cs/cs107/cs107.1232/). Prereq: CS106B.
 - [ ] [CS110 - Principles of Computer Systems](https://web.stanford.edu/class/cs110/). Prereq: CS107.
   or
 - [ ] [CS111 - Operating Systems Principles](https://web.stanford.edu/class/cs111/spring22/). Prereq: CS107.
+  or
+- [ ] [CS112 - Operating Systems](https://www.scs.stanford.edu/22wi-cs212/) Prereq: CS111.
 
 ## Breadth
 
@@ -59,19 +61,13 @@ TODO: Reduce the list
 - [ ] [8.01 - Classical Mechanics](https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/). Co-req: Multivariable Calculus.
 - [ ] [8.02 - Electricity and Magnetism. Prereq: 8.01](https://ocw.mit.edu/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/). Prereq: Linear Algebra and Multivariable Calculus.
 
-## Specialization: Software Theory and Computer Networks
+## Sub-branches
 
 ### Programming Language Design
 
 - [ ] [CS143 - Compilers](https://web.stanford.edu/class/cs143/). Prereq: CS103 and CS107.
 - [ ] [CS242 - Programming Languages](https://stanford-cs242.github.io/f19/). Prereq: CS103 and CS110.
 - [ ] [CS243 - Program Analysis and Optimizations](https://suif.stanford.edu/~courses/cs243/#handouts) Prereq: CS103
-  
-### Distributed Systems
-- [ ] [CS244B - Distributed Systems](https://www.scs.stanford.edu/20sp-cs244b/). Prereq: CS144
-  
-### Operating Systems
-- [ ] [CS112 - Operating Systems](https://www.scs.stanford.edu/22wi-cs212/) Prereq: CS111.
   
 ### Computer Networks
 - [ ] [CS144 - Introduction to Computer Networking](https://cs144.github.io/). Prereq: CS110.
