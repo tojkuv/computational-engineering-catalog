@@ -36,12 +36,20 @@
 
 ## Breadth
 - [ ] TODO: reduce to one course per section
+
 ### Hardware Architecture
 - [ ] [6.004 - Computational Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/).
 - [ ] [6.823 - Computer Systems Architecture](https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/). Prereq: 6.004.
 
+### Computer Graphics
+- [ ] [CS348K - Visual Computing Systems](https://gfxcourses.stanford.edu/cs348k/spring22). Prereq: 6.823.
+
 ### Networking Infrastructure
 - [ ] [CS144 - Introduction to Computer Networking](https://cs144.github.io/). Prereq: CS110.
+
+### Error Correction Algorithms
+- [ ] [CS250 - Algebraic Error Correcting Codes](https://web.stanford.edu/class/cs250/). Prereq: Linear Algebra and
+  CS109.
 
 ### Networking Security
 - [ ] [CS155 - Computer and Network Security](https://cs155.stanford.edu/syllabus.html). Prereq: CS110.
@@ -49,7 +57,7 @@
 ### Web Applications
 - [ ] [CS142 - Web Applications](https://web.stanford.edu/class/cs142/index.html). Prereq: CS107.
 
-### Databases and Information Retrieval
+### Databases and Data Retrieval
 - [ ] TODO: Reduce the list
 - [ ] [CS145 - Data Management and Data Systems](https://cs145-fa19.github.io/#). Prereq: CS103 and CS107.
 - [ ] [CS245 - Principles of Data-Intensive Systems](https://web.stanford.edu/class/cs245/) Prereq: CS145 and CS161.
@@ -60,10 +68,6 @@
 - [ ] [CS168 - The Modern Algorithmic Toolbox](https://web.stanford.edu/class/cs168/). Prereq: CS107 and CS161.
 - [ ] [CS221 - Artificial Intelligence: Principles and Techniques](https://stanford-cs221.github.io/spring2022/).
   Prereq: CS103, CS106B, CS109, and CS161.
-
-### Error Correction Algorithms
-- [ ] [CS250 - Algebraic Error Correcting Codes](https://web.stanford.edu/class/cs250/). Prereq: Linear Algebra and
-  CS109.
 
 ### Integrals, Ordianry Differential Equations, and Partial Differential Equations
 - [ ] [18.01 - Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/syllabus/).
@@ -88,6 +92,10 @@
 - [ ] TODO: courses
 - [ ] TODO: operating system design specification (WASI)
 
+### Databases and Data Retrieval
+- [ ] TODO: courses
+- [ ] TODO: research specifications (wasm-project?)
+
 ### Cryptography
 - [ ] [CS355 Topics in Cryptography](https://crypto.stanford.edu/~dabo/courses/cs355_spring14/syllabus.html).
 
@@ -103,10 +111,15 @@
 - [ ] TODO: web development frameworks
 - [ ] [CS253 - Web Security](https://web.stanford.edu/class/cs253/). Prereq: CS142.
 
+### Tabular data Processing and Inferencing
+
 ### Computer Graphics
+
+### Graphics Data Processing and Inferencing
 - [ ] [CS231A - Computer Vision: From 3D Reconstruction to Recognition](https://web.stanford.edu/class/cs231a/).Prereq: Linear Algebra.
 - [ ] [CS348I - Computer Graphics in the Era of AI](http://cs348i.stanford.edu/#home). Prereq: CS148.
-- [ ] [CS348K - Visual Computing Systems](https://gfxcourses.stanford.edu/cs348k/spring22). Prereq: 6.823.
+
+### Graphics Inference-based Generators
   
 ### Theoretical Computer Science
 - [ ] [CME307 Optimization](https://web.stanford.edu/class/msande311/handout.shtml).
