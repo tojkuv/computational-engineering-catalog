@@ -103,6 +103,8 @@
 - [ ] [EE364A - Convex Optimization I](https://web.stanford.edu/class/ee364a/lectures.html). Prereq: Linear Algebra.
 
 # Resources
+## Books
+- [<TODO>]().
 ## Wikipedia
 - [Computer Science](https://en.wikipedia.org/wiki/Computer_science).
     - [Computing timelines](https://en.wikipedia.org/wiki/Category:Computing_timelines).
