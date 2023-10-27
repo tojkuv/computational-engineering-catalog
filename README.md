@@ -31,9 +31,6 @@
 - [ ] [6.823 - Computer Systems Architecture](https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/).
   Prereq: 6.004.
   
-### Knowledge-Base Representation
-- [ ] [CS224W - Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/). Prereq: CS109 and CS221.
-  
 ### Database Systems
 - [ ] [CS145 - Data Management and Data Systems](https://cs145-fa19.github.io/#). Prereq: CS103 and CS107. 
 - [ ] [CS245 - Principles of Data-Intensive Systems](https://web.stanford.edu/class/cs245/) Prereq: CS145 and CS161.
