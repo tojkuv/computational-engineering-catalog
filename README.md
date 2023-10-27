@@ -115,5 +115,6 @@ TODO: Reduce the list
   - [Cloud Native Landscape](https://landscape.cncf.io/?project=hosted,member&license=open-source&zoom=80).
 - [Bytecode Alliance](https://github.com/bytecodealliance).
 - [The Rust Programming Language](https://github.com/rust-lang).
+- [Saito Distributed Ledger](https://saito.tech/).
 
 
