@@ -82,6 +82,7 @@
 
 ## Depth
 - [ ] TODO: include additional depth sections
+
 ### Programming Language Design
 - [ ] TODO: Compilation target specification (WASM)
 - [ ] [CS143 - Compilers](https://web.stanford.edu/class/cs143/). Prereq: CS103 and CS107.
@@ -112,14 +113,17 @@
 - [ ] [CS253 - Web Security](https://web.stanford.edu/class/cs253/). Prereq: CS142.
 
 ### Tabular data Processing and Inferencing
+- [ ] TODO: courses
 
 ### Computer Graphics
+- [ ] TODO: courses
 
 ### Graphics Data Processing and Inferencing
 - [ ] [CS231A - Computer Vision: From 3D Reconstruction to Recognition](https://web.stanford.edu/class/cs231a/).Prereq: Linear Algebra.
 - [ ] [CS348I - Computer Graphics in the Era of AI](http://cs348i.stanford.edu/#home). Prereq: CS148.
 
 ### Graphics Inference-based Generators
+- [ ] TODO: courses
 
 ### Theoretical Computer Science
 - [ ] [CME307 Optimization](https://web.stanford.edu/class/msande311/handout.shtml).
