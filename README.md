@@ -77,7 +77,7 @@
 
 
 ## Depth
-- [ ] TODO: include additional depth sections
+- [ ] TODO: narrow down sections and/or include other sections
 
 ### Programming Language Design
 - [ ] TODO: Compilation target specification (WASM)
@@ -90,7 +90,6 @@
 - [ ] TODO: operating system design specification (WASI)
 - [ ] [CS107 - Computer Organization and Systems](https://web.stanford.edu/class/archive/cs/cs107/cs107.1232/). Prereq: CS106B.
 - [ ] [CS110 - Principles of Computer Systems](https://web.stanford.edu/class/cs110/). Prereq: CS107.
-- [ ] [CS111 - Operating Systems Principles](https://web.stanford.edu/class/cs111/spring22/). Prereq: CS107.
 - [ ] [CS112 - Operating Systems](https://www.scs.stanford.edu/22wi-cs212/) Prereq: CS111.
 
 ### Databases and Data Retrieval
@@ -112,13 +111,10 @@
 - [ ] TODO: web development frameworks
 - [ ] [CS253 - Web Security](https://web.stanford.edu/class/cs253/). Prereq: CS142.
 
-### Tabular data Processing and Inferencing
-- [ ] TODO: courses
-
 ### Computer Graphics
-- [ ] TODO: courses
+- [ ] [CS148: Introduction to Computer Graphics and Imaging](https://web.stanford.edu/class/cs148/lectures.html).
 
-### Graphics Data Processing and Inferencing
+### Geometry and Graphics Data Processing and Inferencing
 - [ ] [CS231A - Computer Vision: From 3D Reconstruction to Recognition](https://web.stanford.edu/class/cs231a/).Prereq: Linear Algebra.
 - [ ] [CS348I - Computer Graphics in the Era of AI](http://cs348i.stanford.edu/#home). Prereq: CS148.
 
