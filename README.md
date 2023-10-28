@@ -22,7 +22,7 @@
 - [ ] [CS168 - Advance Data Structures](https://web.stanford.edu/class/cs166/).
 
 ### Programing Abstractions
-- [ ] [CS106B - Programming Abstractions](https://web.stanford.edu/class/cs106b/).
+- [ ] [CS107 - Programming Abstractions](https://web.stanford.edu/class/cs107/).
 
 ### Operating Systems
 - [ ] [CS111 - Operating Systems Principles](https://web.stanford.edu/class/cs111/spring22/). Prereq: CS107.
