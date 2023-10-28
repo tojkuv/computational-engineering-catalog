@@ -25,7 +25,7 @@
 - [ ] [CS107 - Programming Abstractions](https://web.stanford.edu/class/cs107/).
 
 ### Operating Systems
-- [ ] [CS111 - Operating Systems Principles](https://web.stanford.edu/class/cs111/spring22/). Prereq: CS107.
+- [ ] [CS110 - Principles of Computer Systems](https://web.stanford.edu/class/cs110/). Prereq: CS107.
 
 ### Cryptography
 - [ ] [CS255 - Introduction to Cryptography](https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/) Prereq: CS110.
@@ -90,11 +90,11 @@
 - [ ] [CS242 - Programming Languages](https://stanford-cs242.github.io/f19/). Prereq: CS103 and CS110.
 - [ ] [CS243 - Program Analysis and Optimizations](https://suif.stanford.edu/~courses/cs243/#handouts) Prereq: CS103
 
-### Operating Systems 
+### Operating Systems
 - [ ] TODO: courses
 - [ ] TODO: operating system design specification (WASI)
-- [ ] [CS110 - Principles of Computer Systems](https://web.stanford.edu/class/cs110/). Prereq: CS107.
-- [ ] [CS112 - Operating Systems](https://www.scs.stanford.edu/22wi-cs212/) Prereq: CS111.
+- [ ] [CS111 - Operating Systems Principles](https://web.stanford.edu/class/cs111/spring22/). Prereq: CS107.
+- [ ] [CS112, CS212, CS140 - Operating Systems](https://www.scs.stanford.edu/22wi-cs212/) Prereq: CS111.
 
 ### Databases and Data Retrieval
 - [ ] TODO: courses
