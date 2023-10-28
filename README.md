@@ -5,7 +5,7 @@
 [MIT OpenCourseWare](https://ocw.mit.edu/search/).
 
 
-## Foundations
+## Foundation
 
 ### Probabilities
 - [ ] [CS109 - Introduction to Probability for Computer Scientists](https://web.stanford.edu/class/cs109/). Prereq: 
@@ -19,6 +19,7 @@
 
 ### Data Structures
 - [ ] [CS161 - Design and Analysis of Algorithms](https://web.stanford.edu/class/archive/cs/cs161/cs161.1166/). Prereq: CS103.
+- [ ] [CS168 - Advance Data Structures](https://web.stanford.edu/class/cs166/).
 
 ### Programing Abstractions
 - [ ] [CS106B - Programming Abstractions](https://web.stanford.edu/class/cs106b/).
@@ -30,7 +31,7 @@
 - [ ] [CS255 - Introduction to Cryptography](https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/) Prereq: CS110.
 
 
-## Breadth
+## Breadth (Prerequisite: Foundation)
 - [ ] TODO: reduce to one course per section
 
 ### Hardware Architecture
@@ -54,16 +55,20 @@
 - [ ] [CS142 - Web Applications](https://web.stanford.edu/class/cs142/index.html). Prereq: CS107.
 
 ### Databases and Data Retrieval
-- [ ] TODO: Reduce the list
+- [ ] TODO: reduce the list
 - [ ] [CS145 - Data Management and Data Systems](https://cs145-fa19.github.io/#). Prereq: CS103 and CS107.
 - [ ] [CS245 - Principles of Data-Intensive Systems](https://web.stanford.edu/class/cs245/) Prereq: CS145 and CS161.
 - [ ] [CS246 - Mining Massive Data Sets](https://web.stanford.edu/class/cs246/). Prereq: CS145.
 - [ ] [CS276 - Information Retrieval and Web Search](https://web.stanford.edu/class/cs276/index.html). Prereq: CS107, CS109, and CS161.
 
 ### Data Inference Algorithms
+- [ ] TODO: reduce the list
 - [ ] [CS168 - The Modern Algorithmic Toolbox](https://web.stanford.edu/class/cs168/). Prereq: CS107 and CS161.
 - [ ] [CS221 - Artificial Intelligence: Principles and Techniques](https://stanford-cs221.github.io/spring2022/).
   Prereq: CS103, CS106B, CS109, and CS161.
+
+### Parallel Computing
+- [ ] [CS1149 - Parallel Computing](https://gfxcourses.stanford.edu/cs149/fall21/lecture/).
 
 ### Integrals, Ordianry Differential Equations, and Partial Differential Equations
 - [ ] [18.01 - Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/syllabus/).
@@ -76,7 +81,7 @@
 - [ ] [8.02 - Electricity and Magnetism. Prereq: 8.01](https://ocw.mit.edu/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/). Prereq: Linear Algebra and Multivariable Calculus.
 
 
-## Depth
+## Depth (Prerequisite: Foundation and The Corresponding Breadth Section Course)
 - [ ] TODO: narrow down sections and/or include other sections
 
 ### Programming Language Design
