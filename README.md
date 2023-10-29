@@ -61,7 +61,12 @@
 - [ ] [CS246 - Mining Massive Data Sets](https://web.stanford.edu/class/cs246/). Prereq: CS145.
 - [ ] [CS276 - Information Retrieval and Web Search](https://web.stanford.edu/class/cs276/index.html). Prereq: CS107, CS109, and CS161.
 
-### Data Inference Algorithms
+### Computer Vision Algorithms
+
+### Reinforcement Learning Algorithms
+- [ ] [CS324 - Reinforcement Learning](https://web.stanford.edu/class/cs234/).
+
+### Convex Optimization Algorithms
 - [ ] TODO: reduce the list
 - [ ] [CS221 - Artificial Intelligence: Principles and Techniques](https://stanford-cs221.github.io/spring2022/).
   Prereq: CS103, CS106B, CS109, and CS161.
