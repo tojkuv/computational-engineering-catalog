@@ -66,10 +66,10 @@
 
 ### Reinforcement Learning Algorithms
 - [ ] [CS324 - Reinforcement Learning](https://web.stanford.edu/class/cs234/).
+- [ ] [CS238 - Decision Making Under Uncertainty](https://aa228.stanford.edu/).
 
 ### Convex Optimization Algorithms
 - [ ] TODO: reduce the list
-- [ ] [CS238 - Decision Making Under Uncertainty](https://aa228.stanford.edu/).
 - [ ] [CS221 - Artificial Intelligence: Principles and Techniques](https://stanford-cs221.github.io/spring2022/).
   Prereq: CS103, CS106B, CS109, and CS161.
 
