@@ -73,7 +73,10 @@
 - [ ] [CS221 - Artificial Intelligence: Principles and Techniques](https://stanford-cs221.github.io/spring2022/).
   Prereq: CS103, CS106B, CS109, and CS161.
 
-### Generative Algorithms
+### Generative Modeling Algorithms
+- [ ] [CS236 - Deep Generative Modeling](https://deepgenerativemodels.github.io/).
+
+### Large Language Models
 - [ ] []().
 
 ### Parallel Computing
@@ -158,5 +161,6 @@
 - [The Rust Programming Language](https://github.com/rust-lang).
 - [Cloud Native Computing Foundation](https://github.com/cncf).
   - [Cloud Native Landscape](https://landscape.cncf.io/?project=hosted,member&license=open-source&zoom=80).
+- [Mozilla Development Network](https://developer.mozilla.org/en-US/).
 
 
