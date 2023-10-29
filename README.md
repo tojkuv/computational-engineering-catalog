@@ -56,7 +56,7 @@
 
 ### Databases and Data Retrieval
 - [ ] TODO: reduce the list
-- [ ] [CS145 - Data Management and Data Systems](https://cs145-fa19.github.io/#). Prereq: CS103 and CS107.
+- [ ] [CS145 - Data Management and Data Systems](https://cs145-fall22.github.io/). Prereq: CS103 and CS107.
 - [ ] [CS245 - Principles of Data-Intensive Systems](https://web.stanford.edu/class/cs245/) Prereq: CS145 and CS161.
 - [ ] [CS246 - Mining Massive Data Sets](https://web.stanford.edu/class/cs246/). Prereq: CS145.
 - [ ] [CS276 - Information Retrieval and Web Search](https://web.stanford.edu/class/cs276/index.html). Prereq: CS107, CS109, and CS161.
@@ -80,7 +80,7 @@
 - [ ] []().
 
 ### Parallel Computing
-- [ ] [CS1149 - Parallel Computing](https://gfxcourses.stanford.edu/cs149/fall21/lecture/).
+- [ ] [CS149 - Parallel Computing](https://gfxcourses.stanford.edu/cs149/fall21/lecture/).
 
 ### Integrals, Ordianry Differential Equations, and Partial Differential Equations
 - [ ] [18.01 - Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/syllabus/).
@@ -162,5 +162,6 @@
 - [Cloud Native Computing Foundation](https://github.com/cncf).
   - [Cloud Native Landscape](https://landscape.cncf.io/?project=hosted,member&license=open-source&zoom=80).
 - [Mozilla Development Network](https://developer.mozilla.org/en-US/).
+- [ECMAScript Language Specification](https://tc39.es/ecma262/#sec-intro).
 
 
