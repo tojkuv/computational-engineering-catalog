@@ -62,6 +62,7 @@
 - [ ] [CS276 - Information Retrieval and Web Search](https://web.stanford.edu/class/cs276/index.html). Prereq: CS107, CS109, and CS161.
 
 ### Computer Vision Algorithms
+- [ ] [CS131 - Computer Vision: Foundations and Applications](http://vision.stanford.edu/teaching/cs131_fall2223/).
 
 ### Reinforcement Learning Algorithms
 - [ ] [CS324 - Reinforcement Learning](https://web.stanford.edu/class/cs234/).
