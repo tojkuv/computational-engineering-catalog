@@ -107,6 +107,7 @@
 - [ ] TODO: operating system design specification (WASI)
 - [ ] [CS111 - Operating Systems Principles](https://web.stanford.edu/class/cs111/spring22/). Prereq: CS107.
 - [ ] [CS112, CS212, CS140 - Operating Systems](https://www.scs.stanford.edu/22wi-cs212/) Prereq: CS111.
+- [ ] [CS240 - Advance Topics in Operating Systems](https://www.scs.stanford.edu/23sp-cs240/).
 
 ### Databases and Data Retrieval
 - [ ] TODO: courses
