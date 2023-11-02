@@ -49,6 +49,9 @@
 - [ ] [CS250 - Algebraic Error Correcting Codes](https://web.stanford.edu/class/cs250/). Prereq: Linear Algebra and
   CS109.
 
+### Information Retrieval and Web Search
+- [ ] [CS276 - Information Retrieval and Web Search](https://stanford.edu/class/cs276/).
+
 ### Randomization Algorithms and Probabilistic Analysis
 - [ ] [CS265 - Randomized Algorithms and Probabilistic Analysis](https://web.stanford.edu/class/cs265/).
 
