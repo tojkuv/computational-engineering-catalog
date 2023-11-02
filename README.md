@@ -35,6 +35,9 @@
 ## Breadth (Prerequisite: Foundation)
 - [ ] TODO: reduce to one course per section
 
+### Research Guidelines
+- [ ] [CS197 - Computer Science Research](https://web.stanford.edu/class/cs197/index.html).
+
 ### Hardware Architecture
 - [ ] [6.004 - Computational Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/).
 - [ ] [6.823 - Computer Systems Architecture](https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/). Prereq: 6.004.
@@ -60,6 +63,9 @@
 
 ### Web Applications
 - [ ] [CS142 - Web Applications](https://web.stanford.edu/class/cs142/index.html). Prereq: CS107.
+
+### Software Design Patterns
+- [ ] [CS190 - Software Design](https://web.stanford.edu/~ouster/cs190-winter24/info/).
 
 ### Databases and Data Retrieval
 - [ ] TODO: reduce the list
