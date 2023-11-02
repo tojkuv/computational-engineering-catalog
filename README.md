@@ -139,6 +139,7 @@
 - [ ] TODO: courses
 
 ### Theoretical Computer Science
+- [ ] [CS 257: Introduction to Automated Reasoning](https://web.stanford.edu/class/cs257/).
 - [ ] [CME307 Optimization](https://web.stanford.edu/class/msande311/handout.shtml).
 - [ ] [CS357 - Advanced Topics in Formal Methods](https://web.stanford.edu/class/cs357/). Prereq: CS161.
 - [ ] [EE364A - Convex Optimization I](https://web.stanford.edu/class/ee364a/lectures.html). Prereq: Linear Algebra.
