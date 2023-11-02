@@ -68,6 +68,9 @@
 - [ ] [CS246 - Mining Massive Data Sets](https://web.stanford.edu/class/cs246/). Prereq: CS145.
 - [ ] [CS276 - Information Retrieval and Web Search](https://web.stanford.edu/class/cs276/index.html). Prereq: CS107, CS109, and CS161.
 
+### Computational Healthcare
+- [ ] [CS372 - Computration and Healthcare](http://infolab.stanford.edu/~echang/cs372/cs372-syllabus.html).
+
 ### Computer Vision Algorithms
 - [ ] [CS131 - Computer Vision: Foundations and Applications](http://vision.stanford.edu/teaching/cs131_fall2223/).
 
