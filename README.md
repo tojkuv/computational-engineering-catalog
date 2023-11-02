@@ -114,11 +114,14 @@
 - [ ] TODO: research specifications (wasm-project?)
 
 ### Cryptography
-- [ ] [CS355 Topics in Cryptography](https://crypto.stanford.edu/~dabo/courses/cs355_spring14/syllabus.html).
+- [ ] [CS355 - Topics in Cryptography](https://crypto.stanford.edu/~dabo/courses/cs355_spring14/syllabus.html).
 
 ### TCP/IP Networking
 - [ ] [CS249I - The Modern Internet](https://cs249i.stanford.edu/). Prereq: CS144.
 - [ ] [CS244 -  Advanced Topics in Networking](https://2022-cs244.github.io/). Prereq: CS144.
+
+### Computer and Network Security
+- [ ] [CS256 - Topics in Computer and Network Security](https://cs356.stanford.edu/).
 
 ### Distributed Ledger Networking
 - [ ] [CS 251: Blockchain Technologies](https://cs251.stanford.edu/syllabus.html).
