@@ -57,10 +57,10 @@
 - [ ] [CS276 - Information Retrieval and Web Search](https://stanford.edu/class/cs276/).
 
 ### Networking Security
-- [ ] [CS155 - Computer and Network Security](https://cs155.stanford.edu/syllabus.html). Prereq: CS110.
+- [ ] [CS155 - Computer and Network Security](https://cs155.stanford.edu/syllabus.html).
 
 ### Web Applications
-- [ ] [CS142 - Web Applications](https://web.stanford.edu/class/cs142/index.html). Prereq: CS107.
+- [ ] [CS142 - Web Applications](https://web.stanford.edu/class/cs142/index.html).
 
 ### Software Design Patterns
 - [ ] [CS190 - Software Design](https://web.stanford.edu/~ouster/cs190-winter24/info/).
