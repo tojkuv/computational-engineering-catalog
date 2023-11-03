@@ -44,6 +44,9 @@
 ### Computer Graphics
 - [ ] [CS348K - Visual Computing Systems](https://gfxcourses.stanford.edu/cs348k/spring22). Prereq: 6.823.
 
+### Parallel Computing
+- [ ] [CS149 - Parallel Computing](https://gfxcourses.stanford.edu/cs149/fall21/lecture/).
+
 ### Networking Infrastructure
 - [ ] [CS144 - Introduction to Computer Networking](https://cs144.github.io/).
 
@@ -92,9 +95,6 @@
 
 ### Large Language Models
 - [ ] []().
-
-### Parallel Computing
-- [ ] [CS149 - Parallel Computing](https://gfxcourses.stanford.edu/cs149/fall21/lecture/).
 
 ### Integrals, Ordianry Differential Equations, and Partial Differential Equations
 - [ ] [18.01 - Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/syllabus/).
