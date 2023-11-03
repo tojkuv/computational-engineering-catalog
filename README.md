@@ -32,7 +32,6 @@
 
 
 ## Breadth
-- [ ] TODO: reduce to one course per section
 
 ### Research Guidelines
 - [ ] [CS197 - Computer Science Research](https://web.stanford.edu/class/cs197/index.html).
