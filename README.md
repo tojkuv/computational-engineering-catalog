@@ -69,6 +69,7 @@
 ### Software Design Patterns
 - [ ] [CS190 - Software Design](https://web.stanford.edu/~ouster/cs190-winter24/).
 
+
 ### Databases and Data Retrieval
 - [ ] TODO: reduce the list
 - [ ] [CS145 - Data Management and Data Systems](https://cs145-fall22.github.io/). Prereq: CS103 and CS107.
@@ -76,26 +77,23 @@
 - [ ] [CS246 - Mining Massive Data Sets](https://web.stanford.edu/class/cs246/). Prereq: CS145.
 - [ ] [CS276 - Information Retrieval and Web Search](https://web.stanford.edu/class/cs276/index.html). Prereq: CS107, CS109, and CS161.
 
+
 ### Computational Healthcare
 - [ ] [CS372 - Computration and Healthcare](http://infolab.stanford.edu/~echang/cs372/cs372-syllabus.html).
 
 ### Computer Vision Algorithms
 - [ ] [CS131 - Computer Vision: Foundations and Applications](http://vision.stanford.edu/teaching/cs131_fall2223/).
 
+
 ### Reinforcement Learning Algorithms
-- [ ] [CS324 - Reinforcement Learning](https://web.stanford.edu/class/cs234/).
-- [ ] [CS238 - Decision Making Under Uncertainty](https://aa228.stanford.edu/).
+- [ ] [CS234 - Reinforcement Learning](https://web.stanford.edu/class/cs234/).
 
 ### Convex Optimization Algorithms
-- [ ] TODO: reduce the list
 - [ ] [CS221 - Artificial Intelligence: Principles and Techniques](https://stanford-cs221.github.io/spring2022/).
-  Prereq: CS103, CS106B, CS109, and CS161.
 
 ### Generative Modeling Algorithms
 - [ ] [CS236 - Deep Generative Modeling](https://deepgenerativemodels.github.io/).
 
-### Large Language Models
-- [ ] []().
 
 ### Integrals, Ordianry Differential Equations, and Partial Differential Equations
 - [ ] [18.01 - Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/syllabus/).
