@@ -45,11 +45,10 @@
 - [ ] [CS348K - Visual Computing Systems](https://gfxcourses.stanford.edu/cs348k/spring22). Prereq: 6.823.
 
 ### Networking Infrastructure
-- [ ] [CS144 - Introduction to Computer Networking](https://cs144.github.io/). Prereq: CS110.
+- [ ] [CS144 - Introduction to Computer Networking](https://cs144.github.io/).
 
 ### Error Correction Algorithms
-- [ ] [CS250 - Algebraic Error Correcting Codes](https://web.stanford.edu/class/cs250/). Prereq: Linear Algebra and
-  CS109.
+- [ ] [CS250 - Algebraic Error Correcting Codes](https://web.stanford.edu/class/cs250/).
 
 ### Information Retrieval and Web Search
 - [ ] [CS276 - Information Retrieval and Web Search](https://stanford.edu/class/cs276/).
