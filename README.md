@@ -107,54 +107,36 @@
 
 ### Programming Language Design
 - [ ] TODO: Compilation target specification (WASM)
-- [ ] [CS143 - Compilers](https://web.stanford.edu/class/cs143/). Prereq: CS103 and CS107.
-- [ ] [CS242 - Programming Languages](https://stanford-cs242.github.io/f19/). Prereq: CS103 and CS110.
-- [ ] [CS243 - Program Analysis and Optimizations](https://suif.stanford.edu/~courses/cs243/#handouts) Prereq: CS103
-
-### Operating Systems
-- [ ] TODO: courses
-- [ ] TODO: operating system design specification (WASI)
-- [ ] [CS111 - Operating Systems Principles](https://web.stanford.edu/class/cs111/spring22/). Prereq: CS107.
-- [ ] [CS112, CS212, CS140 - Operating Systems](https://www.scs.stanford.edu/22wi-cs212/) Prereq: CS111.
-- [ ] [CS240 - Advance Topics in Operating Systems](https://www.scs.stanford.edu/23sp-cs240/).
-
-### Databases and Data Retrieval
-- [ ] TODO: courses
-- [ ] TODO: research specifications (wasm-project?)
+- [ ] [CS143 - Compilers](https://web.stanford.edu/class/cs143/).
+- [ ] [CS242 - Programming Languages](https://stanford-cs242.github.io/f19/).
+- [ ] [CS243 - Program Analysis and Optimizations](https://suif.stanford.edu/~courses/cs243/#handouts).
 
 ### Cryptography
 - [ ] [CS355 - Topics in Cryptography](https://crypto.stanford.edu/~dabo/courses/cs355_spring14/syllabus.html).
 
+### Operating Systems
+- [ ] TODO: operating system design specification (WASI)
+- [ ] [CS111 - Operating Systems Principles](https://web.stanford.edu/class/cs111/spring22/).
+- [ ] [CS112, CS212, CS140 - Operating Systems](https://www.scs.stanford.edu/22wi-cs212/) Prereq: CS111.
+- [ ] [CS240 - Advance Topics in Operating Systems](https://www.scs.stanford.edu/23sp-cs240/).
+
 ### TCP/IP Networking
-- [ ] [CS249I - The Modern Internet](https://cs249i.stanford.edu/). Prereq: CS144.
-- [ ] [CS244 -  Advanced Topics in Networking](https://2022-cs244.github.io/). Prereq: CS144.
+- [ ] [CS249I - The Modern Internet](https://cs249i.stanford.edu/).
+- [ ] [CS244 -  Advanced Topics in Networking](https://2022-cs244.github.io/).
 
 ### Computer and Network Security
+- [ ] [CS253 - Web Security](https://web.stanford.edu/class/cs253/).
 - [ ] [CS256 - Topics in Computer and Network Security](https://cs356.stanford.edu/).
 
 ### Distributed Ledger Networking
 - [ ] [CS 251: Blockchain Technologies](https://cs251.stanford.edu/syllabus.html).
 - [ ] [Saito Distributed Ledger](https://saito.tech/).
 
-### Web Applications
-- [ ] TODO: web development frameworks
-- [ ] [CS253 - Web Security](https://web.stanford.edu/class/cs253/). Prereq: CS142.
-
-### Computer Graphics
-- [ ] [CS148: Introduction to Computer Graphics and Imaging](https://web.stanford.edu/class/cs148/lectures.html).
-
-### Geometry and Graphics Data Processing and Inferencing
-- [ ] [CS231A - Computer Vision: From 3D Reconstruction to Recognition](https://web.stanford.edu/class/cs231a/).Prereq: Linear Algebra.
-- [ ] [CS348I - Computer Graphics in the Era of AI](http://cs348i.stanford.edu/#home). Prereq: CS148.
-
-### Graphics Inference-based Generators
-- [ ] TODO: courses
-
 ### Theoretical Computer Science
 - [ ] [CS 257: Introduction to Automated Reasoning](https://web.stanford.edu/class/cs257/).
 - [ ] [CME307 Optimization](https://web.stanford.edu/class/msande311/handout.shtml).
-- [ ] [CS357 - Advanced Topics in Formal Methods](https://web.stanford.edu/class/cs357/). Prereq: CS161.
-- [ ] [EE364A - Convex Optimization I](https://web.stanford.edu/class/ee364a/lectures.html). Prereq: Linear Algebra.
+- [ ] [CS357 - Advanced Topics in Formal Methods](https://web.stanford.edu/class/cs357/).
+- [ ] [EE364A - Convex Optimization I](https://web.stanford.edu/class/ee364a/lectures.html).
 
 
 # Resources
