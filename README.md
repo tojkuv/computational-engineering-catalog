@@ -184,5 +184,6 @@
   - [Cloud Native Landscape](https://landscape.cncf.io/?project=hosted,member&license=open-source&zoom=80).
 - [Mozilla Development Network](https://developer.mozilla.org/en-US/).
 - [ECMAScript Language Specification](https://tc39.es/ecma262/#sec-intro).
+- [CS571 - Surgical Robotics Seminar](https://web.stanford.edu/class/me571/).
 
 
