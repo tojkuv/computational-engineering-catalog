@@ -102,7 +102,6 @@
 
 
 ## Depth
-- [ ] TODO: narrow down sections and/or include other sections
 
 ### Programming Language Design
 - [ ] TODO: Compilation target specification (WASM)
