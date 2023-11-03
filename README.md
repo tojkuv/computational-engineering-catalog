@@ -47,6 +47,7 @@
 ### Parallel Computing
 - [ ] [CS149 - Parallel Computing](https://gfxcourses.stanford.edu/cs149/fall21/lecture/).
 
+
 ### Networking Infrastructure
 - [ ] [CS144 - Introduction to Computer Networking](https://cs144.github.io/).
 
