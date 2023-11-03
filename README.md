@@ -99,12 +99,11 @@
 ### Integrals, Ordianry Differential Equations, and Partial Differential Equations
 - [ ] [18.01 - Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/syllabus/).
 - [ ] [18.02 - Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/pages/syllabus/). Prereq: 18.01.
-- [ ] [18.03 - Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/). Prereq: 
-  18.02.
+- [ ] [18.03 - Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/). Prereq: 18.02
       
 ### Classical Physics and Classical Electromagnetism
-- [ ] [8.01 - Classical Mechanics](https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/). Co-req: Multivariable Calculus.
-- [ ] [8.02 - Electricity and Magnetism. Prereq: 8.01](https://ocw.mit.edu/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/). Prereq: Linear Algebra and Multivariable Calculus.
+- [ ] [8.01 - Classical Mechanics](https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/). Prereq: 18.01
+- [ ] [8.02 - Electricity and Magnetism](https://ocw.mit.edu/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/). Prereq: 8.01
 
 
 ## Depth (Prerequisite: Foundation and The Corresponding Breadth Section Course)
