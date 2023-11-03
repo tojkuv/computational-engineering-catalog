@@ -63,7 +63,7 @@
 - [ ] [CS142 - Web Applications](https://web.stanford.edu/class/cs142/index.html).
 
 ### Software Design Patterns
-- [ ] [CS190 - Software Design]([https://web.stanford.edu/~ouster/cs190-winter24/info/](https://web.stanford.edu/~ouster/cs190-winter24/).
+- [ ] [CS190 - Software Design](https://web.stanford.edu/~ouster/cs190-winter24/).
 
 ### Databases and Data Retrieval
 - [ ] TODO: reduce the list
