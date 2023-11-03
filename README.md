@@ -20,7 +20,6 @@
 ### Data Structures
 - [ ] [CS161 - Design and Analysis of Algorithms](https://web.stanford.edu/class/archive/cs/cs161/cs161.1166/). Prereq: CS103.
 - [ ] [CS166 - Data Structures](https://web.stanford.edu/class/cs166/).
-- [ ] [CS168 - Advance Data Structures](https://web.stanford.edu/class/cs166/).
 
 ### Programing Abstractions
 - [ ] [CS107 - Programming Abstractions](https://web.stanford.edu/class/cs107/).
