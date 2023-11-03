@@ -31,7 +31,7 @@
 - [ ] [CS255 - Introduction to Cryptography](https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/) Prereq: CS110.
 
 
-## Breadth (Prerequisite: Foundation)
+## Breadth
 - [ ] TODO: reduce to one course per section
 
 ### Research Guidelines
@@ -70,12 +70,9 @@
 - [ ] [CS190 - Software Design](https://web.stanford.edu/~ouster/cs190-winter24/).
 
 
-### Databases and Data Retrieval
-- [ ] TODO: reduce the list
-- [ ] [CS145 - Data Management and Data Systems](https://cs145-fall22.github.io/). Prereq: CS103 and CS107.
-- [ ] [CS245 - Principles of Data-Intensive Systems](https://web.stanford.edu/class/cs245/) Prereq: CS145 and CS161.
+### Databases Principles
+- [ ] [CS145 - Data Management and Data Systems](https://cs145-fall22.github.io/).
 - [ ] [CS246 - Mining Massive Data Sets](https://web.stanford.edu/class/cs246/). Prereq: CS145.
-- [ ] [CS276 - Information Retrieval and Web Search](https://web.stanford.edu/class/cs276/index.html). Prereq: CS107, CS109, and CS161.
 
 
 ### Computational Healthcare
@@ -105,7 +102,7 @@
 - [ ] [8.02 - Electricity and Magnetism](https://ocw.mit.edu/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/). Prereq: 8.01
 
 
-## Depth (Prerequisite: Foundation and The Corresponding Breadth Section Course)
+## Depth
 - [ ] TODO: narrow down sections and/or include other sections
 
 ### Programming Language Design
