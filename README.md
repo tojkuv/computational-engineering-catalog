@@ -50,11 +50,11 @@
 ### Error Correction Algorithms
 - [ ] [CS250 - Algebraic Error Correcting Codes](https://web.stanford.edu/class/cs250/).
 
-### Information Retrieval and Web Search
-- [ ] [CS276 - Information Retrieval and Web Search](https://stanford.edu/class/cs276/).
-
 ### Randomization Algorithms and Probabilistic Analysis
 - [ ] [CS265 - Randomized Algorithms and Probabilistic Analysis](https://web.stanford.edu/class/cs265/).
+
+### Information Retrieval and Web Search
+- [ ] [CS276 - Information Retrieval and Web Search](https://stanford.edu/class/cs276/).
 
 ### Networking Security
 - [ ] [CS155 - Computer and Network Security](https://cs155.stanford.edu/syllabus.html). Prereq: CS110.
