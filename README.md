@@ -141,7 +141,7 @@
 # Resources
 
 ## Books
-- [ ] TODO: List and create sections sections like above
+- [ ] TODO: List and create sections like above
 
 ## Wikipedia
 - [Computer Science](https://en.wikipedia.org/wiki/Computer_science).
